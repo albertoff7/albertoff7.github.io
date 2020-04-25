@@ -2,11 +2,9 @@
 
 <p align = "center"> <img src = "https://ak-007.github.io/LucidCV/lucidcv.png"> </p>
 
-Desde muy jóven sentí fascinación por las tecnologías relacionadas con internet y comencé a estudiarlas, primero de forma autodidacta y después con formación en diferentes áreas. Hoy en 2020 soy un profesional TI con 9 años de experiencia creando y administrando aplicaciones críticas en entornos de producción. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
+Desde muy jóven sentí fascinación por las tecnologías de internet y comencé a estudiarlas, tanto de forma autodidacta como con formación en diferentes áreas. Hoy en 2020 soy un profesional TI con 9 años de experiencia laboral creando y administrando arquitecturas de aplicaciones críticas en entornos de producción. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
 
-Soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado. Pienso que la tecnología está a nuestro servicio para crear un mundo mejor.
-
-
+También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado. Pienso que la tecnología está a nuestro servicio para crear un mundo mejor.
 
 <p align = "center">
 <a href="mailto:alberto@alberto.ws"> <img src="https://img.shields.io/badge/Email-alberto@alberto.ws-34A1F2.svg" alt="Correo electrónico"></a>
