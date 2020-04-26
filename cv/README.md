@@ -78,7 +78,7 @@ Actividades y responsabilidades:
 **Responsable aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
 _(Noviembre 2013 - Enero 2016)_ <br>
 
-Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
+Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.<br>
 Actividades y responsabilidades en el Proyecto Bunker:
 + **Diseño funcional, desarrollo completo de la aplicación** y puesta en producción. Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. Diseño de la interfaz de usuario basado en plantillas `JTemplate`.
 + **Instalación `Gestor CMS`** (sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y software CMS)
