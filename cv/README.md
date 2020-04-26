@@ -86,19 +86,13 @@ Actividades y responsabilidades:
 ---
 
 <img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
-**Responsable aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
+**Responsable técnico del aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
 _(Noviembre 2013 - Enero 2016)_ <br>
 
 Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
 
 Actividades y responsabilidades en el proyecto Bunker:
-+ **Responsable técnico del proyecto bunker.**
-  + **Diseño funcional, desarrollo completo de la aplicación y puesta en producción.** Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. 
-  + **Diseño de la interfaz de usuario** basado en plantillas `JTemplate`. 
-  + **Instalación `Gestor CMS`** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y administración íntegra del aplicativo. 
-  + **Administración backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**, que comprende la toma de datos y su utilización para la expansión del proyecto.
-  
-+ **Seguimiento funcional, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
+  + **Diseño funcional, desarrollo de la aplicación, instalación y administración en producción** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql`. Instalación del `Gestor CMS`, extensiones y módulos. Interfaz de usuario basado en plantillas `JTemplate`. **Backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**. **Seguimiento, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `joomla` `mysql` `html` `UX` `metrics` `shell script`
