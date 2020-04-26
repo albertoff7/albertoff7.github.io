@@ -120,23 +120,23 @@ _(2002 - Actualidad)_ <br>
 
 ## Educación y formación.
 
-<img align = "left" src = "https://img.shields.io/badge/Universidad-UOC-blue.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Universidad-UOC-9E3A00.svg"> <br>
 **Universidad Oberta de Catalunya** _2018_ <br>
 Cursando primer año en Grado Diseño y Creación Digital en régimen semi-presencial.
 
-<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
 **Formador en las ponencias del GUL** _Febrero 2014_ <br>
 Formador para el programa whatshApache (y su desarrollo) en las jornadas del GUL 2014.
 
-<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
 **Universidad Carlos III Madrid** _2012_ <br>
 Cursado primer año en Grado Información y Documentación en la Universidad Carlos III Madrid en régimen semi-presencial.
 
-<img align = "left" src = "https://img.shields.io/badge/Centro%20de%20Formación-Institución%20La%20Salle-blue.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Centro%20de%20Formación-Institución%20La%20Salle-9E3A00.svg"> <br>
 **Institución La salle** _2009-2011_ <br>
 Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (ASI).
 
-<img align = "left" src = "https://img.shields.io/badge/Colegio-Escuelas%20Pias%20Carabanchel-blue.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Colegio-Escuelas%20Pias%20Carabanchel-9E3A00.svg"> <br>
 **Ntra. Señora de las Escuelas Pías** _2007-2009_ <br>
 Bachillerato y Selectividad. 
 
@@ -144,7 +144,7 @@ Bachillerato y Selectividad.
 
 ## Formación complementaria
 
-  <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg">
+  <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg"><br>
   99. **Certificado: JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe._ <br>
   _Noviembre 2018- Enero 2019._
     + JBoss Application Administration I. - JB248 (70h)
