@@ -94,7 +94,7 @@ _(Noviembre 2013 - Enero 2016)_ <br>
 Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
 
 Actividades y responsabilidades en el proyecto Bunker:
-+ **Responsable del proyecto bunker**
++ **Responsable técnico del proyecto bunker.**
   + **Diseño funcional, desarrollo completo de la aplicación y puesta en producción.** Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. 
   + **Diseño de la interfaz de usuario** basado en plantillas `JTemplate`. 
   + **Instalación `Gestor CMS`** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y administración íntegra del aplicativo. 
