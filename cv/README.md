@@ -105,7 +105,7 @@ Actividades y responsabilidades en el proyecto Bunker:
 
 ---
 
-<img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-purple.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-blue.svg"> <br>
 **Responsable y coordinador de rama** <br>
 _Voluntariado en grupo de la asociación Scouts de Madrid_ <br>
 _(Enero 2010 - Enero 2015)_ <br>
@@ -116,11 +116,6 @@ Actividades y responsabilidades:
 + **Gestión y formación del equipo** de Monitores titulados.
 
 ---
-
-<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
-**Formador en las ponencias del GUL 2014** <br>
-_Implantación del proyecto whatshApache_ <br>
-_(Febrero 2014)_ <br>
 
 + **Creación para el GUL del proyecto whatshApache** para administrar un servidor enviando mensajes por whatsapp. Formador en las ponencias del año 2014 en relación al aplicativo.
 
@@ -134,3 +129,34 @@ _(2002 - Actualidad)_ <br>
 + **Webmaster** de diferentes proyectos de índole personal y consultor de nuevas tecnologías para pymes.
 
 ---
+
+## Educación y formación.
+
+<img align = "left" src = "https://img.shields.io/badge/Universidad-UOC-blue.svg"> <br>
+**Universidad Oberta de Catalunya** _2018_ <br>
+Cursando primer año en Grado Diseño y Creación Digital en régimen semi-presencial.
+
+<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
+**Universidad Carlos III Madrid** _2012_ <br>
+Cursado primer año en Grado Información y Documentación en la Universidad Carlos III Madrid en régimen semi-presencial.
+
+
+• 2009 – 2011
+Institución La salle
+
+
+Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (ASI). 
+
+
+• 2007 – 2009
+Nstra. Señora de las Escuelas Pías
+
+
+Bachillerato y Selectividad. 
+
+
+<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
+**Formador en las ponencias del GUL 2014** <br>
+_Implantación del proyecto whatshApache_ <br>
+_(Febrero 2014)_ <br>
+
