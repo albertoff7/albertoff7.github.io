@@ -6,7 +6,7 @@ Desde muy jóven sentí fascinación por las tecnologías de internet y comencé
 
 También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado.
 
-
+<br>
 <p align="center">
 <a href="mailto:alberto@alberto.ws"> <img src="https://img.shields.io/badge/Email-alberto@alberto.ws-34A1F2.svg" alt="Correo electrónico"></a>
 <a href="https://github.com/albertoff7"> <img src="https://img.shields.io/badge/Github-albertoff7-34A1F2.svg" alt="GitHub"></a>
