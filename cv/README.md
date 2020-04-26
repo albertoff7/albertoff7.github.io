@@ -42,16 +42,15 @@ _(Enero 2016 - Febrero 2020)_ <br>
 Resumen de actividades y responsabilidades:
 + **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. 
   + **Prototipado y creación de arquitecturas de aplicaciones** desde entornos previos hasta produción. 
-  + **Subida de versiones, análisis y troubleshooting N2 y N3.**
+  + **Subida de versiones, análisis, troubleshooting N2 y N3.**
   + **Testing funcional, pruebas de rendimiento.** 
   + **Creación de documentación técnica e informes.**
   + **Creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`).**
-  + **SLA's, definición de políticas backup, estandarización de configuraciones/logs**
-  + ... cualquier tarea relacionada con asegurar la explotación de los sistemas con `zero downtime`.
+  + **SLA's, definición de políticas backup, estandarización de configuraciones y logs** y cualquier otra tarea relacionada con asegurar la explotación de los sistemas con `zero downtime`.
 + **Programación Avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
 + **Tecnologías DevOps.** Integrador `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
 + **Gestión de código** con `cvs` y `svn`.
-+ **Interlocución con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura/tecnología y Negocio, supervisión funcional de las aplicaciones.
++ **Interlocución con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio, supervisión funcional de las aplicaciones.
 + **Formación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
 + **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
 
@@ -68,13 +67,13 @@ Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro de
 
 Actividades y responsabilidades:
 + **Administración de servidores y aplicaciones** de una gran variedad de tecnologías bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
-  + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas.
-+ **Monitorización de sistemas y creación de alarmas** para su posterior tratamiento en sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`)
-+ **Programación Avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas.
-+ **Tareas relativas a BBDD y sistemas enfocadas al diagnóstico y la operatividad**.
-+ **Documentacion de problemas** y creación de manuales técnicos para otros grupos. Realización de informes técnicos para cliente.
-+ **Seguimiento y mejora contínua** de problemas, con reuniones diarias para evaluar acciones futuras en incidencias críticas.
-+ **Disponibilidad Guardias**: Móvil de guardia y soporte fuera de horario para incidencias escaladas de sistemas críticos.
+  + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas. Planificación y gestión de cambios.
+  + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
+  + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
++ **Programación avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas.
++ **Tareas enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
++ **Seguimiento y mejora contínua de problemas**, reuniones diarias para evaluar acciones futuras en incidencias críticas.
++ **Guardias**: Móvil de guardia y soporte fuera de horario para incidencias de sistemas críticos escaladas en severidad.
 
 **Responsable aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
 _(Noviembre 2013 - Enero 2016)_ <br>
@@ -82,8 +81,13 @@ _(Noviembre 2013 - Enero 2016)_ <br>
 Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
 
 Actividades y responsabilidades en el Proyecto Bunker:
-+ **Diseño funcional, desarrollo completo de la aplicación** y puesta en producción. Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. **Diseño de la interfaz de usuario** basado en plantillas `JTemplate`. **Instalación `Gestor CMS`** (sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y software CMS) y administración íntegra del aplicativo. **Implantación de backup** con `Akeeba recovery` y **securización de la plataforma** con `JSecurity`. **Analítica y métricas**, toma de datos y utilización para la expansión del proyecto.
-+ **Seguimiento funcional, definición y creación de nuevas funcionalidades** a demanda, en función de las necesidades del proyecto.
++ **Responsable del proyecto bunker**
+  + **Diseño funcional, desarrollo completo de la aplicación** y puesta en producción. Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. 
+  + **Diseño de la interfaz de usuario** basado en plantillas `JTemplate`. 
+  + **Instalación `Gestor CMS`** (sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y software CMS) y administración íntegra del aplicativo. 
+  + **Creación de backup** con `Akeeba recovery` y **securización de la plataforma** con `JSecurity`. 
+  + **Analítica y métricas**, toma de datos y utilización para la expansión del proyecto.
++ **Seguimiento funcional, definición y creación de nuevas funcionalidades** en función de las necesidades del proyecto.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM` `joomla` `mysql` `html` `UX` `metrics`.
