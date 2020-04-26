@@ -30,7 +30,7 @@ Actividades y responsabilidades:
 + Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
 + Formación oficial Red Hat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20Utilizadas-black.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
 <br>
 <br>
@@ -53,7 +53,7 @@ Resumen de actividades y responsabilidades:
 + **Interloculución con los equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura/tecnología y Negocio, supervisión funcional de las aplicaciones.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
-`ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
+`glassfish` `apache` `nodejs` `jboss` `shell script` `bash` `solaris` `suse` `debian` `aix` `svn` `cvs` `nagios` `systemctl` `monit` `smf` `db2` `mysql` `oracle` `j2ee` `vi` `docker` `JDK Mission Control` `memory analyzer` `SoapUI` `JMeter` `jvm` `...`
 
 <br>
 <br>
