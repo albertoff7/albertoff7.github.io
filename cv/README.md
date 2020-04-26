@@ -26,6 +26,7 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 
 **Consultor TI y tecnologías DevOps** <br>
 _(Febrero 2020 - Actualidad)_ <br>
+
 Actividades y responsabilidades:
 + Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
 + Formación oficial Red Hat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
