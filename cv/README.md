@@ -41,7 +41,7 @@ _(Enero 2016 - Febrero 2020)_ <br>
 
 Resumen de actividades y responsabilidades:
 + **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`)
-+ **Programación Avanzada en shell Script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización y análisis. Integración batch con sistemas de control de procesos: `monit` en `Linux` y `SMF` en `Solaris`.
++ **Programación Avanzada en shell Script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización y análisis. Integración batch con sistemas de control de procesos: `monit` y `systemctl` en `Linux` y `SMF` en `Solaris`.
 + **Creación y prototipado de arquitecturas de aplicaciones en entornos Unix**: S.O: `Solaris`, `AIX`, `Linux`, desde la creación inicial hasta la puesta en producción. Subidas de versión de las aplicaciones administradas y control técnico de entornos PRE, INT y PRO.
 + **Creación de alertas de monitorización**: `bash`, `email` y sistemas gestores `Nagios`, `check_MK`, etc. 
 + **Tecnologías DevOps.** Integrador `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
@@ -52,7 +52,7 @@ Resumen de actividades y responsabilidades:
 + **Versionado de código** con `cvs` y `svn`.
 + **Interloculución con los equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura/tecnología y Negocio, supervisión funcional de las aplicaciones.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20Utilizadas-black.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%proyecto-black.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
 
 <br>
