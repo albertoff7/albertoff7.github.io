@@ -87,6 +87,7 @@ Actividades y responsabilidades:
 
 ---
 
+<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
 **Responsable aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
 _(Noviembre 2013 - Enero 2016)_ <br>
 
@@ -123,7 +124,7 @@ Actividades y responsabilidades:
 **Formador en las ponencias del GUL 2014** _sobre la implantación del proyecto whatshApache_ <br>
 _(Febrero 2014)_ <br>
 
-Creación para el GUL del proyecto whatshApache para administrar un servidor enviando mensajes por whatsapp. Formador en las ponencias del año 2014 en relación al aplicativo.
++ **Creación para el GUL del proyecto whatshApache** para administrar un servidor enviando mensajes por whatsapp. Formador en las ponencias del año 2014 en relación al aplicativo.
 
 ---
 
@@ -131,6 +132,6 @@ Creación para el GUL del proyecto whatshApache para administrar un servidor env
 **Webmaster** _proyectos personales y consultoría para PYMES_ <br>
 _(2002 - Actualidad)_ <br>
 
-Webmaster de diferentes proyectos de índole personal y consultor de nuevas tecnologías para pymes.
++ **Webmaster** de diferentes proyectos de índole personal y consultor de nuevas tecnologías para pymes.
 
 ---
