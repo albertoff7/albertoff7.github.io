@@ -32,8 +32,6 @@ Actividades y responsabilidades:
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
-<br>
-<br>
 
 ---
 
@@ -62,12 +60,9 @@ Resumen de actividades y responsabilidades:
 
 ---
 
-<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg">
-<img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg">
-<img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg">
-<img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg">
+<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"><img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg">
 **Administrador Middleware Senior/Junior en entorno Unix** <br>
-_(Febrero 2020 - Actualidad)_ <br>
+_(Febrero 2011 - Enero 2016)_ <br>
 
 Actividades y responsabilidades:
 + Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
