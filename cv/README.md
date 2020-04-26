@@ -47,17 +47,16 @@ Resumen de actividades y responsabilidades:
   + **Creación de documentación técnica e informes.**
   + **Creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`).**
   + **SLA's, definición de políticas backup, estandarización de configuraciones y logs**, tareas relacionadas con asegurar la explotación de los sistemas con `zero downtime`.
+  + **Gestión de código** con `cvs` y `svn`.
+  + **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
   
 + **Programación Avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
-
-+ **Tecnologías DevOps.** Integrador `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
-+ **Gestión de código** con `cvs` y `svn`.
 
 + **Interlocución con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio, supervisión funcional de las aplicaciones.
 
 + **Formación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
 
-+ **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
++ **Integrador tecnologías DevOps.** `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `glassfish` `apache` `nodejs` `jboss` `shell script` `bash` `solaris` `suse` `debian` `aix` `svn` `cvs` `nagios` `systemctl` `monit` `smf` `db2` `mysql` `oracle` `j2ee` `vi` `docker` `JDK Mission Control` `memory analyzer` `SoapUI` `JMeter` `jvm` `...`
@@ -75,10 +74,13 @@ Actividades y responsabilidades:
   + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas. Planificación y gestión de cambios.
   + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
   + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
+  + **Guardias**: Móvil de guardia y soporte fuera de horario para incidencias de sistemas críticos escaladas en severidad.
+  
 + **Programación avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas.
-+ **Tareas enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
+
++ **Operaciones enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
+
 + **Seguimiento y mejora contínua de problemas**, reuniones diarias para evaluar acciones futuras en incidencias críticas.
-+ **Guardias**: Móvil de guardia y soporte fuera de horario para incidencias de sistemas críticos escaladas en severidad.
 
 **Responsable aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
 _(Noviembre 2013 - Enero 2016)_ <br>
@@ -92,6 +94,7 @@ Actividades y responsabilidades en el Proyecto Bunker:
   + **Instalación `Gestor CMS`** (sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y software CMS) y administración íntegra del aplicativo. 
   + **Creación de backup** con `Akeeba recovery` y **securización de la plataforma** con `JSecurity`. 
   + **Analítica y métricas**, toma de datos y utilización para la expansión del proyecto.
+  
 + **Seguimiento funcional, definición y creación de nuevas funcionalidades** en función de las necesidades del proyecto.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
