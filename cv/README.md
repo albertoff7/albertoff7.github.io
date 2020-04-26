@@ -121,7 +121,7 @@ _(2002 - Actualidad)_ <br>
 ## Educación y formación.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UOC-9E3A00.svg"> <br>
-**Universidad Oberta de Catalunya** _2018_ <br>
+**Universidad Oberta de Catalunya** _2018_ <br> \*_No finalizado_\*
 Cursado primer año en Grado Diseño y Creación Digital en régimen semi-presencial.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
@@ -129,7 +129,7 @@ Cursado primer año en Grado Diseño y Creación Digital en régimen semi-presen
 Formador para el programa whatshApache (y su desarrollo) en las jornadas del GUL 2014.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
-**Universidad Carlos III Madrid** _2012_ <br>
+**Universidad Carlos III Madrid** _2012_ <br> \*_No finalizado_\*
 Cursado primer año en Grado Información y Documentación en la Universidad Carlos III Madrid en régimen semi-presencial.
 
 <img align = "left" src = "https://img.shields.io/badge/Centro%20de%20Formación-Institución%20La%20Salle-9E3A00.svg"> <br>
@@ -146,12 +146,22 @@ Bachillerato y Selectividad.
 
 <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg"><br>
 **Licencia 190-036-095, certificado JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe._ <br>
-_Noviembre 2018- Enero 2019._ <br>
+_Noviembre 2018 - Enero 2019._ <br>
     \- JBoss Application Administration I. JB248 (70h) <br>
     \- JBoss Application Administration II. JB348 (60h) <br>
     \- Java para JBoss. JB001 (70h) <br>
     \- OpenShift Enterprise Administration. DO280 (80h) <br>
     \- Red Hat OpenShift Container Platform Development. DO290 (60h) <br>
+    
+<img src = "https://img.shields.io/badge/%20-docker-black.svg"><br>
+**Docker 4º Birthday labs (3h)** _en Tuenti Madrid Office._ <br>
+_Marzo 2017._ <br>
+Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.
+
+<img src = "https://img.shields.io/badge/%20-aws-black.svg"><br>
+**Cloud Computing con Amazon Web Services (AWS) (50h)** _en Universidad politécnica de Valencia._ <br>
+_Noviembre 2016 – Enero 2017._ <br>
+Curso Online de Cloud Computing. AWS con EC2, S3, Route 53, VPC.
 
 
  
