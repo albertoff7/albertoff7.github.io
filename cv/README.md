@@ -117,10 +117,6 @@ Actividades y responsabilidades:
 
 ---
 
-+ **Creación para el GUL del proyecto whatshApache** para administrar un servidor enviando mensajes por whatsapp. Formador en las ponencias del año 2014 en relación al aplicativo.
-
----
-
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Webmaster%20Freelance-blue.svg"> <br>
 **Webmaster** <br>
 _Proyectos personales y consultoría para PYMES_ <br>
@@ -137,26 +133,19 @@ _(2002 - Actualidad)_ <br>
 Cursando primer año en Grado Diseño y Creación Digital en régimen semi-presencial.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
+**Formador en las ponencias del GUL** _Febrero 2014_ <br>
+Formación y creación del proyecto whatshApache en las jornadas del GUL 2014.
+
+<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
 **Universidad Carlos III Madrid** _2012_ <br>
 Cursado primer año en Grado Información y Documentación en la Universidad Carlos III Madrid en régimen semi-presencial.
 
+<img align = "left" src = "https://img.shields.io/badge/Universidad-Institución%20La%20Salle-blue.svg"> <br>
+**Institución La salle** _2009-2011_ <br>
+Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (ASI).
 
-• 2009 – 2011
-Institución La salle
-
-
-Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (ASI). 
-
-
-• 2007 – 2009
-Nstra. Señora de las Escuelas Pías
-
-
+<img align = "left" src = "https://img.shields.io/badge/Universidad-Escuelas%20Pias%20Carabanchel-blue.svg"> <br>
+**Ntra. Señora de las Escuelas Pías** _2007-2009_ <br>
 Bachillerato y Selectividad. 
 
-
-<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
-**Formador en las ponencias del GUL 2014** <br>
-_Implantación del proyecto whatshApache_ <br>
-_(Febrero 2014)_ <br>
 
