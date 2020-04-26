@@ -31,7 +31,7 @@ Actividades y responsabilidades:
 + Formación oficial Red Hat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20Utilizadas-black.svg"> <br>
-`ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git`
+`ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
 <br>
 <br>
 
@@ -40,16 +40,21 @@ Actividades y responsabilidades:
 _(Enero 2016 - Febrero 2020)_ <br>
 
 Actividades y responsabilidades:
-+ Administración de aplicaciones en entornos UNIX, front (servidores web, apache) y back-end (servidores de aplicaciones, glassfish, jboss, nodejs)
-+ Programación Shell Script: Creación de automatismos y demonios que ejecutan tareas de administración, consulta, monitorización y análisis.
-+ Creación y prototipado de arquitecturas de aplicaciones en entornos Unix (Solaris, AIX, Linux), desde la creación inicial hasta la puesta en producción.
-+ Creación de alertas de monitorización. Consola Bash, email y sistemas gestores como Nagios, check_MK, etc. 
-+ Utilidades DevOps. Integrador Docker, Ansible, Grafana, AWS, en fase pre-producción como fase preparatoria para proyectos futuros.
-+ Creación y gestión de procesos batch. Integración con sistemas de control de procesos como monit en Linux o SMF en Solaris.
-+ Resolución de incidencias/problemas, soporte a otros grupos técnicos y de operaciones.
++ Administración de aplicaciones en entornos UNIX, front `(servidores web, apache)` y back-end `(servidores de aplicaciones, glassfish, jboss, nodejs)`
++ Programación Shell Script: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización y análisis.
++ Creación y prototipado de arquitecturas de aplicaciones en entornos Unix `(Solaris, AIX, Linux)`, desde la creación inicial hasta la puesta en producción.
++ Creación de alertas de monitorización. Consola `bash`, email y sistemas gestores `Nagios`, `check_MK`, etc. 
++ Tecnologías DevOps. Integrador Docker, Ansible, Grafana, AWS, en fase pre-producción y en preparación para proyectos futuros.
++ Creación y gestión de procesos batch. Integración con sistemas de control de procesos: `monit` en `Linux` y `SMF` en `Solaris`.
++ Resolución de incidencias N2/N3, soporte a otros grupos técnicos y de operaciones.
 + Documentación de problemas, informes y manuales de operaciones de los productos administrados.
 + Subidas de versión de las aplicaciones administradas.
 + Análisis y testing de versiones de las aplicaciones administradas.
-+ Programación SQL y tareas operacionales sobre BBDD (DB2/Oracle)
++ Programación SQL y tareas operacionales sobre BBDD `DB2`, `mysql`` y `Oracle`.
++ Interlocución con los equipos de desarrollo, supervisión funcional de las aplicaciones.
++ Versionado de código con `cvs` y `svn`.
++ Interloculución con los equipos técnicos de sistemas, almacenamiento, comunicaciones, bases de datos, QA, arquitectura/tecnología y Negocio.
+
+
 
 ---
