@@ -122,7 +122,7 @@ _(2002 - Actualidad)_ <br>
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UOC-9E3A00.svg"> <br>
 **Universidad Oberta de Catalunya** _2018_ <br>
-Cursando primer año en Grado Diseño y Creación Digital en régimen semi-presencial.
+Cursado primer año en Grado Diseño y Creación Digital en régimen semi-presencial.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
 **Formador en las ponencias del GUL** _Febrero 2014_ <br>
@@ -147,11 +147,11 @@ Bachillerato y Selectividad.
  <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg"><br>
  **Licencia 190-036-095, certificado JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe._ <br>
   _Noviembre 2018- Enero 2019._ <br>
-    \- JBoss Application Administration I. - JB248 (70h) <br>
-    \- JBoss Application Administration II. - JB348 (60h) <br>
-    \- Java para JBoss - JB001 (70h) <br>
-    \- OpenShift Enterprise Administration - DO280 (80h) <br>
-    \- Red Hat OpenShift Container Platform Development. - DO290 (60h) <br>
+    \- JBoss Application Administration I. JB248 (70h) <br>
+    \- JBoss Application Administration II. JB348 (60h) <br>
+    \- Java para JBoss. JB001 (70h) <br>
+    \- OpenShift Enterprise Administration. DO280 (80h) <br>
+    \- Red Hat OpenShift Container Platform Development. DO290 (60h) <br>
 
 
  
