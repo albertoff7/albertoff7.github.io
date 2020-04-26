@@ -39,16 +39,15 @@ Actividades y responsabilidades:
 **Administrador Middleware Senior** (entornos unix)<br>
 _(Enero 2016 - Febrero 2020)_ <br>
 
-Actividades y responsabilidades:
-+ Administración de aplicaciones en entornos UNIX, front `(servidores web, apache)` y back-end `(servidores de aplicaciones, glassfish, jboss, nodejs)`
-+ Programación Shell Script: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización y análisis.
-+ Creación y prototipado de arquitecturas de aplicaciones en entornos Unix `(Solaris, AIX, Linux)`, desde la creación inicial hasta la puesta en producción.
+Resumen de actividades y responsabilidades:
++ **Administración de aplicaciones en entornos UNIX**, front `(servidores web, apache)` y back-end `(servidores de aplicaciones, glassfish, jboss, nodejs)`
++ **Programación Avanzada en shell Script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización y análisis. Integración batch con sistemas de control de procesos: `monit` en `Linux` y `SMF` en `Solaris`.
++ **Creación y prototipado de arquitecturas de aplicaciones en entornos Unix** `(Solaris, AIX, Linux)`, desde la creación inicial hasta la puesta en producción. Subidas de versión de las aplicaciones administradas y administración de entornos PRE, INT y PRO.
 + Creación de alertas de monitorización. Consola `bash`, email y sistemas gestores `Nagios`, `check_MK`, etc. 
 + Tecnologías DevOps. Integrador Docker, Ansible, Grafana, AWS, en fase pre-producción y en preparación para proyectos futuros.
-+ Creación y gestión de procesos batch. Integración con sistemas de control de procesos: `monit` en `Linux` y `SMF` en `Solaris`.
 + Resolución de incidencias N2/N3, soporte a otros grupos técnicos y de operaciones.
 + Documentación de problemas, informes y manuales de operaciones de los productos administrados.
-+ Subidas de versión de las aplicaciones administradas.
++ 
 + Análisis y testing de versiones de las aplicaciones administradas.
 + Programación SQL y tareas operacionales sobre BBDD `DB2`, `mysql`` y `Oracle`.
 + Interlocución con los equipos de desarrollo, supervisión funcional de las aplicaciones.
