@@ -28,14 +28,15 @@ _(Febrero 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
 + Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
-+ Formación oficial Red Hat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
++ Formación oficial RedHat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
 <br>
 <br>
+---
+<img src = "https://img.shields.io/badge/Empresa-TIREA-blue.svg"><img src = "https://img.shields.io/badge/Empresa-Fluentia-orange.svg"> <br>
 
-<img align = "left" src = "https://img.shields.io/badge/Empresa-TIREA-blue.svg"> <br>
 **Administrador Middleware Senior** (entornos unix)<br>
 _(Enero 2016 - Febrero 2020)_ <br>
 
@@ -51,6 +52,8 @@ Resumen de actividades y responsabilidades:
 + **Programación SQL y tareas operacionales sobre BBDD** `DB2`, `mysql`` y `Oracle`.
 + **Versionado de código** con `cvs` y `svn`.
 + **Interloculución con los equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura/tecnología y Negocio, supervisión funcional de las aplicaciones.
++ **Estandarización de logs y configuraciones** de los productos administrados.
++ **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `glassfish` `apache` `nodejs` `jboss` `shell script` `bash` `solaris` `suse` `debian` `aix` `svn` `cvs` `nagios` `systemctl` `monit` `smf` `db2` `mysql` `oracle` `j2ee` `vi` `docker` `JDK Mission Control` `memory analyzer` `SoapUI` `JMeter` `jvm` `...`
@@ -58,4 +61,20 @@ Resumen de actividades y responsabilidades:
 <br>
 <br>
 
+---
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
+**Administrador Middleware de aplicaciones en entorno Unix** <br>
+_(Febrero 2020 - Actualidad)_ <br>
+
+Actividades y responsabilidades:
++ Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
++ Formación oficial RedHat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
+
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
+`ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
+<br>
+<br>
 ---
