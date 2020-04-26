@@ -18,10 +18,17 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 <img src="https://img.shields.io/badge/Fecha%20de%20Nacimiento-07/06/1991-34A1F2.svg" alt="Fecha de Nacimiento 07/06/1991"></a>
 </p>
 
+---
+
 ## Experiencia Laboral
+
+<img align = "right" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg">
+
 **Consultor TI y tecnologías DevOps** <br>
-(*Febrero 2020 - Actualidad*)<a href="https://www.qindel.com"><img src="https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg" alt="Qindel Group"></a>
-<br>
+_(Febrero 2020 - Actualidad)_ <br>
 Actividades y responsabilidades:
 + Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
 + Formación oficial Red Hat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
+
+
+---
