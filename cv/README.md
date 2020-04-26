@@ -41,7 +41,13 @@ _(Enero 2016 - Febrero 2020)_ <br>
 
 Resumen de actividades y responsabilidades:
 + **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. 
-**Prototipado y creación de arquitecturas de aplicaciones** desde entornos previos hasta produción. Subida de versiones, análisis y troubleshooting N2 y N3, testing funcional, pruebas de rendimiento, creación de documentación técnica e informes, creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`), SLA's, definición de políticas backup, estandarización de configuraciones/logs y en definitiva cualquier tarea relacionada con asegurar la explotación de los sistemas con `zero downtime`.
+  + **Prototipado y creación de arquitecturas de aplicaciones** desde entornos previos hasta produción. 
+  + **Subida de versiones, análisis y troubleshooting N2 y N3.**
+  + **Testing funcional, pruebas de rendimiento.** 
+  + **Creación de documentación técnica e informes.**
+  + **Creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`).**
+  + **SLA's, definición de políticas backup, estandarización de configuraciones/logs**
+  + ... cualquier tarea relacionada con asegurar la explotación de los sistemas con `zero downtime`.
 + **Programación Avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
 + **Tecnologías DevOps.** Integrador `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
 + **Gestión de código** con `cvs` y `svn`.
