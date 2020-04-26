@@ -34,10 +34,12 @@ Actividades y responsabilidades:
 `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
 <br>
 <br>
----
-<img src = "https://img.shields.io/badge/Empresa-TIREA-blue.svg"><img src = "https://img.shields.io/badge/Empresa-Fluentia-orange.svg"> <br>
 
-**Administrador Middleware Senior** (entornos unix)<br>
+---
+
+<img src = "https://img.shields.io/badge/Empresa-TIREA-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Fluentia-orange.svg"> <br>
+
+**Administrador Middleware Senior** _entornos unix_<br>
 _(Enero 2016 - Febrero 2020)_ <br>
 
 Resumen de actividades y responsabilidades:
@@ -62,11 +64,11 @@ Resumen de actividades y responsabilidades:
 <br>
 
 ---
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
-**Administrador Middleware de aplicaciones en entorno Unix** <br>
+<img align = "left" src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <br>
+**Administrador Middleware Senior/Junior en entorno Unix** <br>
 _(Febrero 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
