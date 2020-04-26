@@ -67,20 +67,32 @@ _(Febrero 2011 - Enero 2016)_ <br>
 Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro del proyecto `IBM Global Services España`, contratado por diferentes empresas englobadas en el mismo proyecto.
 
 Actividades y responsabilidades:
-+ **Administración de servidores y aplicaciones.** bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
-+ **Despliegues de Software en sistemas en producción** así como en sus correspondientes entornos de pre-producción/certificación.
-+ **Subidas de versión de aplicativos en producción**, así como el soporte y la resolución de problemas para completar la actualización.
-+ **Monitorización de Sistemas y creación de alarmas** para su posterior tratamiento en sistemas gestores ticketing (OVO, Nagios, Pandora etc)
-+ **Programación Avanzada Shell Script**: Desarrollo y administración de aplicaciones en Shell script para la optimización, automatización y monitorización de sistemas.
-+ **Tareas programadas sobre ORACLE relativas al diagnóstico y operatividad de la Base de Datos**, tablespaces, utilización lenguaje SQL, ...
++ **Administración de servidores y aplicaciones** bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
++ **Despliegues de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación.
++ **Subidas de versión de aplicativos en producción**, así como el soporte y la resolución de problemas.
++ **Monitorización de sistemas y creación de alarmas** para su posterior tratamiento en sistemas gestores ticketing (`OVO`, `Nagios`, `Pandora`)
++ **Programación Avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas.
++ **Tareas BBDD enfocadas al diagnóstico y operatividad de la Base de Datos**, `tablespaces`, utilización lenguaje SQL, ...
 + **Documentacion de problemas** y preparación de manuales técnicos para otros grupos.
-+ **Seguimiento y mejora contínua** de problemas con reuniones diarias para evaluar acciones futuras en incidencias críticas.
++ **Seguimiento y mejora contínua** de problemas, con reuniones diarias para evaluar acciones futuras en incidencias críticas.
 + **Disponibilidad Guardias**: Móvil de guardia y soporte fuera de horario para incidencias escaladas de sistemas críticos.
 
+Proyectos desarrollados:
+**Bunker Imanaged Services**
+_(Noviembre 2013 - Enero 2016)_ <br>
+Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services.
+Actividades y responsabilidades en el Proyecto Bunker:
++ Diseño funcional y desarrollo completo de la aplicación.
++ Instalación base `Gestor CMS` (sistema operativo, servidor web, servidor BBDD y software CMS)
++ Desarrollo aplicativo WEB utilización de lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`.
++ Diseño de la interfaz de usuario basado en plantillas `JTemplate`.
++ Administración Web y BBDD `MySQL` encargandome de todas las tareas relativas a mantener su operatividad y al desarrollo `SQL`.
++ Implantación de backup con `Akeeba recovery` y otros componentes destinados a securizar la plataforma como `JSecurity`.
++ Analítica y métricas con herramientas de análisis de visitas, tráfico etc.
+
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
-`Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM` `joomla` `mysql`.
+`Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM` `joomla` `mysql` `html` `UX` `metrics`.
 <br>
 <br>
 
 ---
-
