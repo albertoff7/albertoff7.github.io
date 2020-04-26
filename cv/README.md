@@ -40,20 +40,22 @@ Actividades y responsabilidades:
 _(Enero 2016 - Febrero 2020)_ <br>
 
 Resumen de actividades y responsabilidades:
-+ **Administración de aplicaciones en entornos UNIX**, front `(servidores web, apache)` y back-end `(servidores de aplicaciones, glassfish, jboss, nodejs)`
++ **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`)
 + **Programación Avanzada en shell Script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización y análisis. Integración batch con sistemas de control de procesos: `monit` en `Linux` y `SMF` en `Solaris`.
-+ **Creación y prototipado de arquitecturas de aplicaciones en entornos Unix** `(Solaris, AIX, Linux)`, desde la creación inicial hasta la puesta en producción. Subidas de versión de las aplicaciones administradas y administración de entornos PRE, INT y PRO.
-+ Creación de alertas de monitorización. Consola `bash`, email y sistemas gestores `Nagios`, `check_MK`, etc. 
-+ Tecnologías DevOps. Integrador Docker, Ansible, Grafana, AWS, en fase pre-producción y en preparación para proyectos futuros.
-+ Resolución de incidencias N2/N3, soporte a otros grupos técnicos y de operaciones.
-+ Documentación de problemas, informes y manuales de operaciones de los productos administrados.
-+ 
-+ Análisis y testing de versiones de las aplicaciones administradas.
-+ Programación SQL y tareas operacionales sobre BBDD `DB2`, `mysql`` y `Oracle`.
-+ Interlocución con los equipos de desarrollo, supervisión funcional de las aplicaciones.
-+ Versionado de código con `cvs` y `svn`.
-+ Interloculución con los equipos técnicos de sistemas, almacenamiento, comunicaciones, bases de datos, QA, arquitectura/tecnología y Negocio.
++ **Creación y prototipado de arquitecturas de aplicaciones en entornos Unix**: S.O: `Solaris`, `AIX`, `Linux`, desde la creación inicial hasta la puesta en producción. Subidas de versión de las aplicaciones administradas y control técnico de entornos PRE, INT y PRO.
++ **Creación de alertas de monitorización**: `bash`, `email` y sistemas gestores `Nagios`, `check_MK`, etc. 
++ **Tecnologías DevOps.** Integrador `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
++ **Resolución de técnica unix N2/N3**, soporte a otros grupos técnicos y de operaciones para garantizar `zero downtime`.
++ **Documentación de problemas**, informes y manuales de operaciones de los productos administrados.
++ **Análisis y testing** de versiones de las aplicaciones administradas.
++ **Programación SQL y tareas operacionales sobre BBDD** `DB2`, `mysql`` y `Oracle`.
++ **Versionado de código** con `cvs` y `svn`.
++ **Interloculución con los equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura/tecnología y Negocio, supervisión funcional de las aplicaciones.
 
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20Utilizadas-black.svg"> <br>
+`ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
 
+<br>
+<br>
 
 ---
