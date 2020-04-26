@@ -132,7 +132,7 @@ Cursando primer año en Grado Diseño y Creación Digital en régimen semi-prese
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
 **Formador en las ponencias del GUL** _Febrero 2014_ <br>
-Formación y creación del proyecto whatshApache en las jornadas del GUL 2014.
+Formador para el programa whatshApache (y su desarrollo) en las jornadas del GUL 2014.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
 **Universidad Carlos III Madrid** _2012_ <br>
@@ -150,7 +150,7 @@ Bachillerato y Selectividad.
 
 ## Formación complementaria
 
-  <img align = "left" src = "https://img.shields.io/badge/%20-JBOSS-black.svg"> <img align = "left" src = "https://img.shields.io/badge/%20-openshift-black.svg"> <br>
+  <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg"> <br>
   + **Certificado: JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe._ <br>
   _Noviembre 2018- Enero 2019._
     + JBoss Application Administration I. - JB248 (70h)
