@@ -75,9 +75,9 @@ Actividades y responsabilidades:
 + **Seguimiento y mejora contínua** de problemas, con reuniones diarias para evaluar acciones futuras en incidencias críticas.
 + **Disponibilidad Guardias**: Móvil de guardia y soporte fuera de horario para incidencias escaladas de sistemas críticos.
 
-Responsable de aplicativo:
-**Proyecto Bunker Imanaged Services**
+**Responsable aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
 _(Noviembre 2013 - Enero 2016)_ <br>
+
 Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
 Actividades y responsabilidades en el Proyecto Bunker:
 + **Diseño funcional, desarrollo completo de la aplicación** y puesta en producción. Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. Diseño de la interfaz de usuario basado en plantillas `JTemplate`.
