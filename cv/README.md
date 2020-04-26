@@ -60,14 +60,12 @@ Resumen de actividades y responsabilidades:
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `glassfish` `apache` `nodejs` `jboss` `shell script` `bash` `solaris` `suse` `debian` `aix` `svn` `cvs` `nagios` `systemctl` `monit` `smf` `db2` `mysql` `oracle` `j2ee` `vi` `docker` `JDK Mission Control` `memory analyzer` `SoapUI` `JMeter` `jvm` `...`
 
-<br>
-<br>
-
 ---
-<img align = "left" src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <br>
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <br>
-<img align = "left" src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"> <br>
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <br>
+
+<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg">
+<img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg">
+<img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg">
+<img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg">
 **Administrador Middleware Senior/Junior en entorno Unix** <br>
 _(Febrero 2020 - Actualidad)_ <br>
 
