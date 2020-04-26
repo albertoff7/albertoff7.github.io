@@ -102,3 +102,14 @@ Actividades y responsabilidades en el proyecto Bunker:
 <br>
 
 ---
+
+<img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-purple.svg"> <br>
+**Responsable y coordinador de rama** _voluntariado en grupo de la asociación de Scouts de Madrid_ <br>
+_(2010 - 2015)_ <br>
+
+Actividades y responsabilidades:
++ Coordinador de Rama en grupo scout perteneciente a Scouts de Madrid, asociación dedicada a la educación no formal.
++ Programación de actividades para campamentos, salidas y fines de semana.
++ Gestión y formación de equipo de Monitores titulados.
+
+---
