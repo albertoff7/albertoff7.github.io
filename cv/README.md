@@ -52,7 +52,7 @@ Resumen de actividades y responsabilidades:
   
 + **Programación Avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
 
-+ **Interlocución con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio, supervisión funcional de las aplicaciones.
++ **Interlocución con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio. Supervisión funcional de aplicaciones.
 
 + **Formación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
 
@@ -64,19 +64,19 @@ Resumen de actividades y responsabilidades:
 ---
 
 <img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
-**Administrador Middleware Senior/Junior, Operaciones** _en entorno Unix_ <br>
+**Administrador Middleware Senior/Junior, operaciones en sistemas** _en entorno Unix_ <br>
 _(Febrero 2011 - Enero 2016)_ <br>
 
-Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro del proyecto `IBM Global Services España`, y por diferentes empresas englobadas en el mismo proyecto.
+Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro del proyecto `IBM Global Services España` en diferentes empresas englobadas en el mismo proyecto.
 
 Actividades y responsabilidades:
-+ **Administración de servidores y aplicaciones** de una gran variedad de tecnologías bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
++ **Administración de servidores y aplicaciones** de una gran variedad de tecnologías, bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
   + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas. Planificación y gestión de cambios.
   + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
   + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
   + **Guardias**: Móvil de guardia y soporte fuera de horario para incidencias de sistemas críticos escaladas en severidad.
   
-+ **Programación avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas.
++ **Programación avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas. `funciones bash` `awk` `sed`.
 
 + **Operaciones enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
 
@@ -87,15 +87,14 @@ _(Noviembre 2013 - Enero 2016)_ <br>
 
 Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
 
-Actividades y responsabilidades en el Proyecto Bunker:
+Actividades y responsabilidades en el proyecto Bunker:
 + **Responsable del proyecto bunker**
-  + **Diseño funcional, desarrollo completo de la aplicación** y puesta en producción. Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. 
+  + **Diseño funcional, desarrollo completo de la aplicación y puesta en producción.** Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. 
   + **Diseño de la interfaz de usuario** basado en plantillas `JTemplate`. 
-  + **Instalación `Gestor CMS`** (sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y software CMS) y administración íntegra del aplicativo. 
-  + **Creación de backup** con `Akeeba recovery` y **securización de la plataforma** con `JSecurity`. 
-  + **Analítica y métricas**, toma de datos y utilización para la expansión del proyecto.
+  + **Instalación `Gestor CMS`** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y administración íntegra del aplicativo. 
+  + **Creación de backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**, que comprende la toma de datos y su utilización para la expansión del proyecto.
   
-+ **Seguimiento funcional, definición y creación de nuevas funcionalidades** en función de las necesidades del proyecto.
++ **Seguimiento funcional, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM` `joomla` `mysql` `html` `UX` `metrics`.
