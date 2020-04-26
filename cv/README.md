@@ -19,7 +19,7 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 </p>
 
 ## Experiencia Laboral
-**Consultor TI y tecnologías DevOps** (*Febrero 2020 - Actualidad*)
+**Consultor TI y tecnologías DevOps** (*Febrero 2020 - Actualidad*)<br>
 <a href="https://www.qindel.com"><img src="https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg" alt="Qindel Group"></a>
 <br>
 **Puesto ocupado: Consultor de sistemas UNIX y tecnologías DevOps.**
