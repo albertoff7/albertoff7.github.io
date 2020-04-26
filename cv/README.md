@@ -40,18 +40,12 @@ Actividades y responsabilidades:
 _(Enero 2016 - Febrero 2020)_ <br>
 
 Resumen de actividades y responsabilidades:
-+ **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`)
-+ **Programación Avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización y análisis. Integración batch con sistemas de control de procesos: `monit` y `systemctl` en `Linux` y `SMF` en `Solaris`.
-+ **Creación y prototipado de arquitecturas de aplicaciones en entornos Unix**: S.O: `Solaris`, `AIX`, `Linux`, desde la creación inicial hasta la puesta en producción. Subidas de versión de las aplicaciones administradas y control técnico de entornos PRE, INT y PRO.
-+ **Creación de alertas de monitorización**: `bash`, `email` y sistemas gestores `Nagios`, `check_MK`, etc. 
++ **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. **Prototipado y creación de arquitecturas de aplicaciones** desde entornos previos hasta produción. Subida de versiones, análisis y resolución de problemas, testing funcional, pruebas de rendimiento, creación de documentación técnica e informes, creación de alertas de monitorización con `bash`, `email` y sistemas gestores `Nagios`/`check_MK`, SLA's, definición de políticas backup, estandarización configuraciones, logs y en definitiva cualquier tareas relacionada con asegurar la explotación de los sistemas con `zero downtime`.
++ **Programación Avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit` y `systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
 + **Tecnologías DevOps.** Integrador `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
-+ **Resolución de técnica unix N2/N3**, soporte a otros grupos técnicos y de operaciones para garantizar `zero downtime`.
-+ **Documentación de problemas**, informes y manuales de operaciones de los productos administrados.
-+ **Análisis y testing** de versiones de las aplicaciones administradas.
-+ **Programación SQL y tareas operacionales sobre BBDD** `DB2`, `mysql`` y `Oracle`.
 + **Versionado de código** con `cvs` y `svn`.
-+ **Interloculución con los equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura/tecnología y Negocio, supervisión funcional de las aplicaciones.
-+ **Estandarización de logs y configuraciones** de los productos administrados.
++ **Interlocución con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura/tecnología y Negocio, supervisión funcional de las aplicaciones.
++ **Formación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
 + **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
@@ -63,14 +57,14 @@ Resumen de actividades y responsabilidades:
 **Administrador Middleware Senior/Junior, Operaciones** _en entorno Unix_ <br>
 _(Febrero 2011 - Enero 2016)_ <br>
 
-Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro del proyecto `IBM Global Services España`, contratado por diferentes empresas englobadas en el mismo proyecto.
+Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro del proyecto `IBM Global Services España`, y por diferentes empresas englobadas en el mismo proyecto.
 
 Actividades y responsabilidades:
-+ **Administración de servidores y aplicaciones** bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
-+ **Despliegues de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas.
-+ **Monitorización de sistemas y creación de alarmas** para su posterior tratamiento en sistemas gestores ticketing (`OVO`, `Nagios`, `Pandora`)
++ **Administración de servidores y aplicaciones** de una gran variedad de tecnologías bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
++ **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas.
++ **Monitorización de sistemas y creación de alarmas** para su posterior tratamiento en sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`)
 + **Programación Avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas.
-+ **Tareas BBDD y sistemas enfocadas al diagnóstico y la operatividad.
++ **Tareas relativas a BBDD y sistemas enfocadas al diagnóstico y la operatividad**.
 + **Documentacion de problemas** y creación de manuales técnicos para otros grupos.
 + **Seguimiento y mejora contínua** de problemas, con reuniones diarias para evaluar acciones futuras en incidencias críticas.
 + **Disponibilidad Guardias**: Móvil de guardia y soporte fuera de horario para incidencias escaladas de sistemas críticos.
@@ -81,10 +75,9 @@ _(Noviembre 2013 - Enero 2016)_ <br>
 Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
 
 Actividades y responsabilidades en el Proyecto Bunker:
-+ **Diseño funcional, desarrollo completo de la aplicación** y puesta en producción. Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. Diseño de la interfaz de usuario basado en plantillas `JTemplate`.
-+ **Instalación `Gestor CMS`** (sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y software CMS)
++ **Diseño funcional, desarrollo completo de la aplicación** y puesta en producción. Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. Diseño de la interfaz de usuario basado en plantillas `JTemplate`. **Instalación `Gestor CMS`** (sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y software CMS)
 + **Administración Web y BBDD** del aplicativo.
-+ **Implantación de backup** con `Akeeba recovery` y otros componentes destinados a securizar la plataforma como `JSecurity`.
++ **Implantación de backup** con `Akeeba recovery` y *securización de la plataforma* con `JSecurity` `...`.
 + **Analítica y métricas** con herramientas de análisis de visitas, tráfico etc.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
