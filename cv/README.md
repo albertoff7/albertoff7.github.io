@@ -106,8 +106,7 @@ Actividades y responsabilidades en el proyecto Bunker:
 ---
 
 <img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-blue.svg"> <br>
-**Responsable y coordinador de rama** <br>
-_Voluntariado en grupo de la asociación Scouts de Madrid_ <br>
+**Responsable y coordinador de rama** _en grupo de la asociación Scouts de Madrid_ <br>
 _(Enero 2010 - Enero 2015)_ <br>
 
 Actividades y responsabilidades:
@@ -118,8 +117,7 @@ Actividades y responsabilidades:
 ---
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Webmaster%20Freelance-blue.svg"> <br>
-**Webmaster** <br>
-_Proyectos personales y consultoría para PYMES_ <br>
+**Webmaster** _y consultoría para PYMES_ <br>
 _(2002 - Actualidad)_ <br>
 
 + **Webmaster** de diferentes proyectos de índole personal y consultor de nuevas tecnologías para pymes.
@@ -140,12 +138,24 @@ Formación y creación del proyecto whatshApache en las jornadas del GUL 2014.
 **Universidad Carlos III Madrid** _2012_ <br>
 Cursado primer año en Grado Información y Documentación en la Universidad Carlos III Madrid en régimen semi-presencial.
 
-<img align = "left" src = "https://img.shields.io/badge/Universidad-Institución%20La%20Salle-blue.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Centro%20de%20Formación-Institución%20La%20Salle-blue.svg"> <br>
 **Institución La salle** _2009-2011_ <br>
 Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (ASI).
 
-<img align = "left" src = "https://img.shields.io/badge/Universidad-Escuelas%20Pias%20Carabanchel-blue.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/Colegio-Escuelas%20Pias%20Carabanchel-blue.svg"> <br>
 **Ntra. Señora de las Escuelas Pías** _2007-2009_ <br>
 Bachillerato y Selectividad. 
+
+---
+
+## Formación complementaria
+
+  + **Certificado: JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe. Noviembre 2018- Enero 2019._
+    + JBoss Application Administration I. - JB248 (70h)
+    + JBoss Application Administration II. - JB348 (60h)
+    **Licencia de certificación: 190-036-095**
+    + Java para JBoss - JB001 (70h) 
+    + OpenShift Enterprise Administration - DO280 (80h)
+    + Red Hat OpenShift Container Platform Development. - DO290 (60h)
 
 
