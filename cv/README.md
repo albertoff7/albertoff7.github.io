@@ -110,7 +110,7 @@ Actividades y responsabilidades en el proyecto Bunker:
 ---
 
 <img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-purple.svg"> <br>
-**Responsable y coordinador de rama** 
+**Responsable y coordinador de rama** <br>
 _Voluntariado en grupo de la asociación Scouts de Madrid_ <br>
 _(Enero 2010 - Enero 2015)_ <br>
 
@@ -122,7 +122,7 @@ Actividades y responsabilidades:
 ---
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
-**Formador en las ponencias del GUL 2014** 
+**Formador en las ponencias del GUL 2014** <br>
 _Implantación del proyecto whatshApache_ <br>
 _(Febrero 2014)_ <br>
 
@@ -131,7 +131,7 @@ _(Febrero 2014)_ <br>
 ---
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Webmaster%20Freelance-blue.svg"> <br>
-**Webmaster** 
+**Webmaster** <br>
 _Proyectos personales y consultoría para PYMES_ <br>
 _(2002 - Actualidad)_ <br>
 
