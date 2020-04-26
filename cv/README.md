@@ -150,9 +150,11 @@ Bachillerato y Selectividad.
 
 ## Formación complementaria
 
-  + **Certificado: JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe. Noviembre 2018- Enero 2019._
+  <img align = "left" src = "https://img.shields.io/badge/%20-JBOSS-black.svg"> <img align = "left" src = "https://img.shields.io/badge/%20-openshift-black.svg"> <br>
+  + **Certificado: JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe._ <br>
+  _Noviembre 2018- Enero 2019._
     + JBoss Application Administration I. - JB248 (70h)
-    + JBoss Application Administration II. - JB348 (60h)
+    + JBoss Application Administration II. - JB348 (60h) <br>
     **Licencia de certificación: 190-036-095**
     + Java para JBoss - JB001 (70h) 
     + OpenShift Enterprise Administration - DO280 (80h)
