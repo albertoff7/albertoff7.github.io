@@ -82,8 +82,6 @@ Actividades y responsabilidades:
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM`
-<br>
-<br>
 
 ---
 
@@ -103,9 +101,7 @@ Actividades y responsabilidades en el proyecto Bunker:
 + **Seguimiento funcional, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
-`joomla` `mysql` `html` `UX` `metrics` `shell script`.
-<br>
-<br>
+`joomla` `mysql` `html` `UX` `metrics` `shell script`
 
 ---
 
