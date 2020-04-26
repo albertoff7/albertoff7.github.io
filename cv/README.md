@@ -13,11 +13,9 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 <a href="https://api.whatsapp.com/send?phone=0034695644176"> <img src="https://img.shields.io/badge/Telefono-695644176-008000.svg" alt="Telefono"></a>
 <a href="https://goo.gl/maps/UsmizC3uWs2R8Xas6"> <img src="https://img.shields.io/badge/Localizaci%C3%B3n-Madrid-34A1F2.svg" alt="Madrid"></a>
 <a href="https://www.linkedin.com/in/alberto-fern%C3%A1ndez-fern%C3%A1ndez"> <img src="https://img.shields.io/badge/Linkedin-Alberto%20Fernandez-34A1F2.svg" alt="Linkedin"></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Nacionalidad-Epañola-FF0000.svg"
-<img src="https://img.shields.io/badge/Nacimiento-07/06/1991-34A1F2.svg"
-<img src="https://img.shields.io/badge/Nacimiento-07/06/1991-34A1F2.svg"
+<br>
+<img src="https://img.shields.io/badge/Nacionalidad-Epañola-FF0000.svg" alt="Nacionalidad Española"></a>
+<img src="https://img.shields.io/badge/Fecha%20de%20Nacimiento-07/06/1991-34A1F2.svg" alt="Fecha de Nacimiento 07/06/1991"></a>
 </p>
 
 ## Experiencia Laboral
