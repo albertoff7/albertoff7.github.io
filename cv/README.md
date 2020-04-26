@@ -144,7 +144,7 @@ Bachillerato y Selectividad.
 
 ## Formación complementaria
 
-<img align = "left" src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img align = "left" src = "https://img.shields.io/badge/%20-openshift-black.svg"><br>
+<img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg"><br>
 **Licencia 190-036-095, certificado JBOSS Administrator in EAP Server (340h)** _en Centro TIC Getafe._ <br>
 _Noviembre 2018 - Enero 2019._ <br>
     \- JBoss Application Administration I. JB248 (70h) <br>
