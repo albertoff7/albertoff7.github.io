@@ -39,7 +39,7 @@ Actividades y responsabilidades:
 **Administrador Middleware Senior** _en entornos unix_<br>
 _(Enero 2016 - Febrero 2020)_ <br>
 
-Resumen de actividades y responsabilidades:
+Actividades y responsabilidades:
 + **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. 
   + **Prototipado y creación de arquitecturas de aplicaciones** desde entornos previos hasta produción. 
   + **Subida de versiones, análisis, troubleshooting N2 y N3.**
@@ -67,8 +67,6 @@ Resumen de actividades y responsabilidades:
 **Administrador Middleware Senior/Junior, operaciones en sistemas** _en entorno Unix_ <br>
 _(Febrero 2011 - Enero 2016)_ <br>
 
-Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro del proyecto `IBM Global Services España` en diferentes empresas englobadas en el mismo proyecto.
-
 Actividades y responsabilidades:
 + **Administración de servidores y aplicaciones** de una gran variedad de tecnologías, bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
   + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas. Planificación y gestión de cambios.
@@ -81,6 +79,13 @@ Actividades y responsabilidades:
 + **Operaciones enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
 
 + **Seguimiento y mejora contínua de problemas**, reuniones diarias para evaluar acciones futuras en incidencias críticas.
+
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
+`Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM`
+<br>
+<br>
+
+---
 
 **Responsable aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
 _(Noviembre 2013 - Enero 2016)_ <br>
@@ -97,7 +102,7 @@ Actividades y responsabilidades en el proyecto Bunker:
 + **Seguimiento funcional, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
-`Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM` `joomla` `mysql` `html` `UX` `metrics`.
+`joomla` `mysql` `html` `UX` `metrics` `shell script`.
 <br>
 <br>
 
