@@ -60,16 +60,27 @@ Resumen de actividades y responsabilidades:
 
 ---
 
-<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"><img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg">
-**Administrador Middleware Senior/Junior en entorno Unix** <br>
+<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
+**Administrador Middleware Senior/Junior, Operaciones** _en entorno Unix_ <br>
 _(Febrero 2011 - Enero 2016)_ <br>
 
+Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro del proyecto `IBM Global Services España`, contratado por diferentes empresas englobadas en el mismo proyecto.
+
 Actividades y responsabilidades:
-+ Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
-+ Formación oficial RedHat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
++ **Administración de servidores y aplicaciones.** bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
++ **Despliegues de Software en sistemas en producción** así como en sus correspondientes entornos de pre-producción/certificación.
++ **Subidas de versión de aplicativos en producción**, así como el soporte y la resolución de problemas para completar la actualización.
++ **Monitorización de Sistemas y creación de alarmas** para su posterior tratamiento en sistemas gestores ticketing (OVO, Nagios, Pandora etc)
++ **Programación Avanzada Shell Script**: Desarrollo y administración de aplicaciones en Shell script para la optimización, automatización y monitorización de sistemas.
++ **Tareas programadas sobre ORACLE relativas al diagnóstico y operatividad de la Base de Datos**, tablespaces, utilización lenguaje SQL, ...
++ **Documentacion de problemas** y preparación de manuales técnicos para otros grupos.
++ **Seguimiento y mejora contínua** de problemas con reuniones diarias para evaluar acciones futuras en incidencias críticas.
++ **Disponibilidad Guardias**: Móvil de guardia y soporte fuera de horario para incidencias escaladas de sistemas críticos.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
-`ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
+`Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM` `joomla` `mysql`.
 <br>
 <br>
+
 ---
+
