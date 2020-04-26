@@ -19,10 +19,9 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 </p>
 
 ## Experiencia Laboral
-**Consultor TI y tecnologías DevOps** (*Febrero 2020 - Actualidad*)<br>
-<a href="https://www.qindel.com"><img src="https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg" alt="Qindel Group"></a>
+**Consultor TI y tecnologías DevOps** <br>
+(*Febrero 2020 - Actualidad*)<a href="https://www.qindel.com"><img src="https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg" alt="Qindel Group"></a>
 <br>
-**Puesto ocupado: Consultor de sistemas UNIX y tecnologías DevOps.**
 Actividades y responsabilidades:
 + Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
 + Formación oficial Red Hat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
