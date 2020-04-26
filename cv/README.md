@@ -96,7 +96,7 @@ Actividades y responsabilidades en el proyecto Bunker:
   + **Diseño funcional, desarrollo completo de la aplicación y puesta en producción.** Lenguajes `HTML`, `shell script`, extensiones y módulos `CMS`. 
   + **Diseño de la interfaz de usuario** basado en plantillas `JTemplate`. 
   + **Instalación `Gestor CMS`** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql` y administración íntegra del aplicativo. 
-  + **Creación de backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**, que comprende la toma de datos y su utilización para la expansión del proyecto.
+  + **Administración backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**, que comprende la toma de datos y su utilización para la expansión del proyecto.
   
 + **Seguimiento funcional, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
 
@@ -151,7 +151,7 @@ Bachillerato y Selectividad.
 ## Formación complementaria
 
   <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg">
-  + **Certificado: JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe._ <br>
+  99. **Certificado: JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe._ <br>
   _Noviembre 2018- Enero 2019._
     + JBoss Application Administration I. - JB248 (70h)
     + JBoss Application Administration II. - JB348 (60h) <br>
