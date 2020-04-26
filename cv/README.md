@@ -52,7 +52,7 @@ Resumen de actividades y responsabilidades:
 + **Versionado de código** con `cvs` y `svn`.
 + **Interloculución con los equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura/tecnología y Negocio, supervisión funcional de las aplicaciones.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%proyecto-black.svg"> <br>
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-black.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
 
 <br>
