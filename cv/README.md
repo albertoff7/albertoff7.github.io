@@ -150,7 +150,7 @@ Bachillerato y Selectividad.
 
 ## Formación complementaria
 
-  <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg"> <br>
+  <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg">
   + **Certificado: JBOSS Administrator in Enterprise Application Server (340h)** _en Centro TIC Getafe._ <br>
   _Noviembre 2018- Enero 2019._
     + JBoss Application Administration I. - JB248 (70h)
