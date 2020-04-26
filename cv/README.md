@@ -105,11 +105,27 @@ Actividades y responsabilidades en el proyecto Bunker:
 
 <img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-purple.svg"> <br>
 **Responsable y coordinador de rama** _voluntariado en grupo de la asociación de Scouts de Madrid_ <br>
-_(2010 - 2015)_ <br>
+_(Enero 2010 - Enero 2015)_ <br>
 
 Actividades y responsabilidades:
-+ Coordinador de Rama en grupo scout perteneciente a Scouts de Madrid, asociación dedicada a la educación no formal.
-+ Programación de actividades para campamentos, salidas y fines de semana.
-+ Gestión y formación de equipo de Monitores titulados.
++ **Coordinador de Rama** en grupo scout perteneciente a Scouts de Madrid, asociación dedicada a la educación no formal.
++ **Programación de actividades** para campamentos, salidas y fines de semana.
++ **Gestión y formación del equipo** de Monitores titulados.
+
+---
+
+<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-blue.svg"> <br>
+**Formador en las ponencias del GUL 2014** _sobre la implantación del proyecto whatshApache_ <br>
+_(Febrero 2014)_ <br>
+
+Creación para el GUL del proyecto whatshApache para administrar un servidor enviando mensajes por whatsapp. Formador en las ponencias del año 2014 en relación al aplicativo.
+
+---
+
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Webmaster%20Freelance-blue.svg"> <br>
+**Webmaster** _proyectos personales y consultoría para PYMES_ <br>
+_(2002 - Actualidad)_ <br>
+
+Webmaster de diferentes proyectos de índole personal y consultor de nuevas tecnologías para pymes.
 
 ---
