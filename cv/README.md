@@ -47,11 +47,16 @@ Resumen de actividades y responsabilidades:
   + **Creación de documentación técnica e informes.**
   + **Creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`).**
   + **SLA's, definición de políticas backup, estandarización de configuraciones y logs**, tareas relacionadas con asegurar la explotación de los sistemas con `zero downtime`.
+  
 + **Programación Avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
+
 + **Tecnologías DevOps.** Integrador `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
 + **Gestión de código** con `cvs` y `svn`.
+
 + **Interlocución con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio, supervisión funcional de las aplicaciones.
+
 + **Formación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
+
 + **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
@@ -67,8 +72,8 @@ Durante ésta etapa pasé por 5 grupos técnicos de diferentes niveles dentro de
 
 Actividades y responsabilidades:
 + **Administración de servidores y aplicaciones** de una gran variedad de tecnologías bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
-    + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas. Planificación y gestión de cambios.
-    + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
+  + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas. Planificación y gestión de cambios.
+  + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
   + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
 + **Programación avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas.
 + **Tareas enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
