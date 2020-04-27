@@ -68,7 +68,7 @@ Actividades y responsabilidades:
 _(Noviembre 2012 - Enero 2016)_ <br>
 
 Actividades y responsabilidades:
-+ **Administración de servidores y aplicaciones** de una gran variedad de tecnologías, bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. Desempeño de tareas relativas a mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
++ **Administración de servidores y aplicaciones** de una gran variedad de tecnologías, bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. Desempeño de tareas relativas a mantener la operatividad de los aplicativos y la de sus interfaces.
   + **Seguimiento técnico en el despliegue de nuevas versiones de sistemas en producción** así como en sus correspondientes entornos de pre-producción. Soporte y resolución de problemas. Planificación y gestión de cambios, creando un flujo de trabajo para delegar tareas en otros equipos.
   + **Planificación del sistema de alarmas**, estableciendo puntos de monitorización de referencia en las aplicaciones.
   + **Soporte en el escalado de incidencias críticas** y supervisión de procedimientos para otros grupos técnicos.
