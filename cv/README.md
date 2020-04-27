@@ -114,8 +114,10 @@ Actividades y responsabilidades:
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `SunONE Web Server` `SunsONE Application Server` `jboss` `weblogic` `Websphere Application server` `shell script` `unix` `solaris` `aix` `HP-UX`
 
+---
+
 <img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-blue.svg"> <br>
-**Responsable y coordinador de rama** _en grupo de la asociación Scouts de Madrid_ <br>
+**Responsable y coordinador de rama** _en grupo de Scouts de Madrid_ <br>
 _(Enero 2010 - Enero 2015)_ <br>
 
 Actividades y responsabilidades:
