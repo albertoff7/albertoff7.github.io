@@ -103,7 +103,7 @@ _(Febrero 2011 - Noviembre 2012)_ <br>
 Actividades y responsabilidades:
 + **Administración de servidores y aplicaciones** en sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`.
   + **Despliegue de nuevas versiones en sistemas en producción** y pre-producción.
-  + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
+  + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora`, `Remedy`).
   + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
   + **Resolución y seguimiento de incidencias con escalado a grupos técnicos especialistas.**
   
