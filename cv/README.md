@@ -163,5 +163,3 @@ Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.
 _Noviembre 2016 – Enero 2017._ <br>
 Curso Online de Cloud Computing. AWS con EC2, S3, Route 53, VPC.
 
-
- 
