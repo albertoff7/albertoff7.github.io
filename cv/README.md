@@ -112,7 +112,7 @@ Actividades y responsabilidades:
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Webmaster%20Freelance-blue.svg"> <br>
 **Webmaster** _y consultoría para PYMES_ <br>
-_(2002 - Actualidad)_ <br>
+_(2007 - Actualidad)_ <br>
 
 + **Webmaster** de diferentes proyectos de índole personal y consultor de nuevas tecnologías para pymes.
 
