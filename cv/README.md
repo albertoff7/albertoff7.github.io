@@ -92,8 +92,8 @@ Bunker es un sistema CMS diseñado para la gestión interna de inventario y camb
 Actividades y responsabilidades en el proyecto Bunker:
   + **Diseño funcional, desarrollo de la aplicación, instalación y administración en producción** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql`. Instalación del `Gestor CMS`, extensiones y módulos. Interfaz de usuario basado en plantillas `JTemplate`. **Backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**. **Seguimiento, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
-`joomla` `mysql` `html` `UX` `metrics` `shell script`
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"><br>
+`joomla` `mysql` `html` `UX` `metricas` `php` `shell script`
 
 ---
 <img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
