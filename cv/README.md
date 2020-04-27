@@ -102,14 +102,14 @@ _(Febrero 2011 - Noviembre 2012)_ <br>
 
 Actividades y responsabilidades:
 + **Administración de servidores y aplicaciones** en sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`.
-  + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción.
+  + **Despliegue de nuevas versiones en sistemas en producción** y pre-producción.
   + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
   + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
-  + **Seguimiento de incidencias y escalado a grupos técnicos especialistas.**
+  + **Resolución y seguimiento de incidencias con escalado a grupos técnicos especialistas.**
   
 + **Programación shell script.** Automatizaciones en `shell script` para la administración y monitorización de aplicaciones/sistemas.
 
-+ **Operaciones enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
++ **Operaciones enfocadas al diagnóstico y la operatividad de sistemas Unix y BBDD**.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `SunONE Web Server` `SunsONE Application Server` `jboss` `weblogic` `Websphere Application server` `shell script` `unix` `solaris` `aix` `HP-UX`
