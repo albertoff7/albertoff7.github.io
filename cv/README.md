@@ -74,7 +74,7 @@ Actividades y responsabilidades:
   + **Soporte en el escalado de incidencias críticas** y supervisión de procedimientos para otros grupos técnicos.
   + **Guardias**: Móvil de guardia y soporte fuera de horario para incidencias de sistemas críticos escaladas en severidad.
   
-+ **Programación avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la administración, optimización, automatización y monitorización de sistemas. `funciones bash` `awk` `sed`.
++ **Programación avanzada shell script**: Desarrollo de aplicaciones en `shell script` para la administración, optimización, automatización y monitorización de sistemas. `funciones bash` `awk` `sed`.
 
 + **Seguimiento y mejora contínua de problemas**, reuniones diarias planificando mejoras para futuras incidencias críticas.
 
