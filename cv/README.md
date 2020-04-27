@@ -63,7 +63,7 @@ Actividades y responsabilidades:
 
 ---
 
-<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
+<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"><br>
 **Administrador Middleware Senior** _en entorno Unix_ <br>
 _(Noviembre 2012 - Enero 2016)_ <br>
 
@@ -83,7 +83,7 @@ Actividades y responsabilidades:
 
 ---
 
-<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
+<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"><br>
 **Responsable técnico del aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
 _(Agosto 2012 - Enero 2016)_ <br>
 
@@ -96,7 +96,7 @@ Actividades y responsabilidades en el proyecto Bunker:
 `joomla` `mysql` `html` `UX` `metrics` `shell script`
 
 ---
-<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
+<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
 **Administrador Middleware Junior y operador de sistemas** _en entorno Unix_ <br>
 _(Febrero 2011 - Noviembre 2012)_ <br>
 
