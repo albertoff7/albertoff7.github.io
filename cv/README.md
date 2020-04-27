@@ -64,21 +64,19 @@ Actividades y responsabilidades:
 ---
 
 <img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
-**Administrador Middleware Senior/Junior, operaciones en sistemas** _en entorno Unix_ <br>
-_(Febrero 2011 - Enero 2016)_ <br>
+**Administrador Middleware Senior** _en entorno Unix_ <br>
+_(Noviembre 2012 - Enero 2016)_ <br>
 
 Actividades y responsabilidades:
-+ **Administración de servidores y aplicaciones** de una gran variedad de tecnologías, bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. La labor que realizo es la de mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
-  + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción/integración/certificación. Soporte y resolución de problemas. Planificación y gestión de cambios.
-  + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
-  + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
++ **Administración de servidores y aplicaciones** de una gran variedad de tecnologías, bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. Desempeño de tareas relativas a mantener la operatividad de los aplicativos y la de sus interfaces de conexión.
+  + **Seguimiento técnico en el despliegue de nuevas versiones de sistemas en producción** así como en sus correspondientes entornos de pre-producción. Soporte y resolución de problemas. Planificación y gestión de cambios, creando un flujo de trabajo para delegar tareas en otros equipos.
+  + **Planificación del sistema de alarmas**, estableciendo puntos de monitorización de referencia en las aplicaciones.
+  + **Soporte en el escalado de incidencias críticas** y supervisión de procedimientos para otros grupos técnicos.
   + **Guardias**: Móvil de guardia y soporte fuera de horario para incidencias de sistemas críticos escaladas en severidad.
   
-+ **Programación avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la optimización, automatización y monitorización de sistemas. `funciones bash` `awk` `sed`.
++ **Programación avanzada shell script**: Desarrollo y administración de aplicaciones en `shell script` para la administración, optimización, automatización y monitorización de sistemas. `funciones bash` `awk` `sed`.
 
-+ **Operaciones enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
-
-+ **Seguimiento y mejora contínua de problemas**, reuniones diarias para evaluar acciones futuras en incidencias críticas.
++ **Seguimiento y mejora contínua de problemas**, reuniones diarias planificando mejoras para futuras incidencias críticas.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM`
@@ -87,7 +85,7 @@ Actividades y responsabilidades:
 
 <img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
 **Responsable técnico del aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
-_(Noviembre 2013 - Enero 2016)_ <br>
+_(Agosto 2012 - Enero 2016)_ <br>
 
 Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
 
@@ -98,6 +96,23 @@ Actividades y responsabilidades en el proyecto Bunker:
 `joomla` `mysql` `html` `UX` `metrics` `shell script`
 
 ---
+<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
+**Administrador Middleware Junior y operador de sistemas** _en entorno Unix_ <br>
+_(Febrero 2011 - Noviembre 2012)_ <br>
+
+Actividades y responsabilidades:
++ **Administración de servidores y aplicaciones** en sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`.
+  + **Despliegue de nuevas versiones en sistemas en producción** así como en sus correspondientes entornos de pre-producción.
+  + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora` `Remedy`).
+  + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
+  + **Seguimiento de incidencias y escalado a grupos técnicos especialistas.**
+  
++ **Programación shell script.** Automatizaciones en `shell script` para la administración y monitorización de aplicaciones/sistemas.
+
++ **Operaciones enfocadas al diagnóstico y la operatividad de sistemas unix y BBDD**.
+
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
+`SunONE Web Server` `SunsONE Application Server` `jboss` `weblogic` `Websphere Application server` `shell script` `unix` `solaris` `aix` `HP-UX`
 
 <img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-blue.svg"> <br>
 **Responsable y coordinador de rama** _en grupo de la asociación Scouts de Madrid_ <br>
@@ -153,7 +168,7 @@ _Noviembre 2018 - Enero 2019._ <br>
     \- OpenShift Enterprise Administration. DO280 (80h) <br>
     \- Red Hat OpenShift Container Platform Development. DO290 (60h) <br>
     
-<img src = "https://img.shields.io/badge/%20-docker-black.svg"><br>
+<img src = "https://img.shields.io/badge/%20-docker-black.svg"> <img src = "https://img.shields.io/badge/%20-docker%20compose-black.svg"> <img src = "https://img.shields.io/badge/%20containerd.io-black.svg"><br>
 **Docker 4º Birthday labs (3h)** _en Tuenti Madrid Office._ <br>
 _Marzo 2017._ <br>
 Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.
