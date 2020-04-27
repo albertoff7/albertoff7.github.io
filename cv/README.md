@@ -144,7 +144,7 @@ Bachillerato y Selectividad.
 
 ## Formación complementaria
 
-<img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg"><br>
+<img src = "https://img.shields.io/badge/%20-redhat-black.svg"> <img src = "https://img.shields.io/badge/%20-jboss-black.svg"> <img src = "https://img.shields.io/badge/%20-openshift-black.svg"><br>
 **Licencia 190-036-095, certificado JBOSS Administrator in EAP Server (340h)** _en Centro TIC Getafe._ <br>
 _Noviembre 2018 - Enero 2019._ <br>
     \- JBoss Application Administration I. JB248 (70h) <br>
@@ -158,7 +158,7 @@ _Noviembre 2018 - Enero 2019._ <br>
 _Marzo 2017._ <br>
 Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.
 
-<img src = "https://img.shields.io/badge/%20-aws-black.svg"><br>
+<img src = "https://img.shields.io/badge/%20-ec2-black.svg"> <img src = "https://img.shields.io/badge/%20-vpc-black.svg"> <img src = "https://img.shields.io/badge/%20-rds-black.svg"> <img src = "https://img.shields.io/badge/%20-s3-black.svg"> <img src = "https://img.shields.io/badge/%20-route%2053-black.svg"> <img src = "https://img.shields.io/badge/%20-aws-black.svg"><br>
 **Cloud Computing con Amazon Web Services (AWS) (50h)** _en Universidad politécnica de Valencia._ <br>
 _Noviembre 2016 – Enero 2017._ <br>
 Curso Online de Cloud Computing. AWS con EC2, S3, Route 53, VPC, RDS, CloudWatch.
