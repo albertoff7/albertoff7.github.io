@@ -41,18 +41,18 @@ _(Enero 2016 - Febrero 2020)_ <br>
 
 Actividades y responsabilidades:
 + **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. 
-  + **Prototipado y creación de arquitecturas de aplicaciones** desde entornos previos hasta produción. 
-  + **Subida de versiones, análisis, troubleshooting N2 y N3.**
-  + **Testing funcional, pruebas de rendimiento.** 
+  + **Diseño, prototipado y creación de arquitecturas de aplicaciones** desde entornos pre hasta produción.
+  + **Subida de versiones, explotación, análisis, troubleshooting N2 y N3.**
+  + **Testing funcional y pruebas de rendimiento.** 
   + **Creación de documentación técnica e informes.**
   + **Creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`).**
-  + **SLA's, definición de políticas backup, estandarización de configuraciones y logs**, tareas relacionadas con asegurar la explotación de los sistemas con `zero downtime`.
+  + **Definición de SLA's, políticas backup, estandarización de configuraciones y logs**, tareas relacionadas con asegurar la explotación de los sistemas con `zero downtime`.
   + **Gestión de código** con `cvs` y `svn`.
   + **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
   
-+ **Programación Avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
++ **Programación avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
 
-+ **Interlocución con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio. Supervisión funcional de aplicaciones.
++ **Seguimiento e interlocución directa con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio. Supervisión funcional de aplicaciones.
 
 + **Formación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
 
