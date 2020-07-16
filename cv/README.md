@@ -6,17 +6,31 @@ Desde muy jóven sentí fascinación por las tecnologías de internet y comencé
 
 También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado. Proactivo, responsable y con energía para seguir expandiendo mis conocimientos y experiencia. Creando sinergias que permitan sumar valor allí por donde paso, utilizando la tecnología como activo y palanca estratégica.
 
+**Email**: alberto@alberto.ws
+**Teléfono**: +34 695644176
+
 <br>
 <p align="center">
-<a href="mailto:alberto@alberto.ws"> <img src="https://img.shields.io/badge/Email-alberto@alberto.ws-34A1F2.svg" alt="Correo electrónico"></a>
+<a href="mailto:alberto@alberto.ws"> <img src="https://img.shields.io/badge/Email-alberto@alberto.ws-34A1F2.svg" alt="Email"></a>
 <a href="https://github.com/albertoff7"> <img src="https://img.shields.io/badge/Github-albertoff7-34A1F2.svg" alt="GitHub"></a>
-<a href="https://api.whatsapp.com/send?phone=0034695644176"> <img src="https://img.shields.io/badge/Telefono-695644176-008000.svg" alt="Telefono"></a>
+<a href="https://api.whatsapp.com/send?phone=0034695644176"> <img src="https://img.shields.io/badge/Telefono-695644176-008000.svg" alt="Whatsapp"></a>
 <a href="https://goo.gl/maps/UsmizC3uWs2R8Xas6"> <img src="https://img.shields.io/badge/Localizaci%C3%B3n-Madrid-34A1F2.svg" alt="Madrid"></a>
 <a href="https://www.linkedin.com/in/alberto-fern%C3%A1ndez-fern%C3%A1ndez"> <img src="https://img.shields.io/badge/Linkedin-Alberto%20Fernandez-34A1F2.svg" alt="Linkedin"></a>
 <br>
 <img src="https://img.shields.io/badge/Nacionalidad-Epañola-FF0000.svg" alt="Nacionalidad Española"></a>
 <img src="https://img.shields.io/badge/Fecha%20de%20Nacimiento-07/06/1991-34A1F2.svg" alt="Fecha de Nacimiento 07/06/1991"></a>
 </p>
+
+---
+
+## Certificaciones
+
+<img align = "left" src = "https://img.shields.io/badge/Tecnología-Red%20Hat-red.svg"> <br>
+**Licencia Red Hat 190-036-095**
+- Red Hat Certified Engineer (RHCE)
+- Red Hat Certified Specialist in Ansible Automation
+- Red Hat Certified System Administrator (RHCSA)
+- Red Hat Certified Specialist in Enterprise Application Server (RHJCA)
 
 ---
 
@@ -29,9 +43,11 @@ _(Febrero 2020 - Actualidad)_ <br>
 Actividades y responsabilidades:
 + Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
 + Formación oficial RedHat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
++ xxx xxx xxx xxx
++ xxx xxx xxx xxx
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
-`ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana`
+`ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ovirt`
 
 ---
 
@@ -63,7 +79,7 @@ Actividades y responsabilidades:
 
 ---
 
-<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"><br>
+<img src = "https://img.shields.io/badge/Cliente-IBM-black.svg"> <img src = "https://img.shields.io/badge/Cliente-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"><br>
 **Administrador Middleware Senior** _en entorno Unix_ <br>
 _(Noviembre 2012 - Enero 2016)_ <br>
 
@@ -82,21 +98,7 @@ Actividades y responsabilidades:
 `Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM`
 
 ---
-
-<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"><br>
-**Responsable técnico del aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
-_(Agosto 2012 - Enero 2016)_ <br>
-
-Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
-
-Actividades y responsabilidades en el proyecto Bunker:
-  + **Diseño funcional, desarrollo de la aplicación, instalación y administración en producción** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql`. Instalación del `Gestor CMS`, extensiones y módulos. Interfaz de usuario basado en plantillas `JTemplate`. **Backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**. **Seguimiento, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
-
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"><br>
-`joomla` `mysql` `html` `UX` `metricas` `php` `shell script`
-
----
-<img src = "https://img.shields.io/badge/Empresa-IBM-black.svg"> <img src = "https://img.shields.io/badge/Empresa-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
+<img src = "https://img.shields.io/badge/Cliente-IBM-black.svg"> <img src = "https://img.shields.io/badge/Cliente-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
 **Administrador Middleware Junior y operador de sistemas** _en entorno Unix_ <br>
 _(Febrero 2011 - Noviembre 2012)_ <br>
 
@@ -135,23 +137,39 @@ _(2007 - Actualidad)_ <br>
 
 ---
 
+## Proyectos propios
+
+<img src = "https://img.shields.io/badge/Cliente-IBM-black.svg"> <img src = "https://img.shields.io/badge/Cliente-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"><br>
+**Responsable técnico del aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
+_(Agosto 2012 - Enero 2016)_ <br>
+
+Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
+
+Actividades y responsabilidades en el proyecto Bunker:
+  + **Diseño funcional, desarrollo de la aplicación, instalación y administración en producción** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql`. Instalación del `Gestor CMS`, extensiones y módulos. Interfaz de usuario basado en plantillas `JTemplate`. **Backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**. **Seguimiento, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
+
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"><br>
+`joomla` `mysql` `html` `UX` `metricas` `php` `shell script`
+
+---
+
 ## Educación y formación.
+
+<img align = "left" src = "https://img.shields.io/badge/Centro%20de%20Formación-Institución%20La%20Salle-9E3A00.svg"> <br>
+**Institución La salle** _2009-2011_ <br>
+Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (ASI).
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UOC-9E3A00.svg"> <br>
 **Universidad Oberta de Catalunya** _2018_ <br> \*_No finalizado_\*
 Cursado primer año en Grado Diseño y Creación Digital en régimen semi-presencial.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
-**Formador en las ponencias del GUL** _Febrero 2014_ <br>
-Formador para el programa whatshApache (y su desarrollo) en las jornadas del GUL 2014.
+**Universidad Carlos III Madrid** _2012_ <br> \*_No finalizado_\*
+Grado Información y Documentación en la Universidad Carlos III Madrid en régimen semi-presencial.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
-**Universidad Carlos III Madrid** _2012_ <br> \*_No finalizado_\*
-Cursado primer año en Grado Información y Documentación en la Universidad Carlos III Madrid en régimen semi-presencial.
-
-<img align = "left" src = "https://img.shields.io/badge/Centro%20de%20Formación-Institución%20La%20Salle-9E3A00.svg"> <br>
-**Institución La salle** _2009-2011_ <br>
-Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (ASI).
+**Formador en las ponencias del GUL** _Febrero 2014_ <br>
+Formador para el programa whatshApache (y su desarrollo) en las jornadas del GUL 2014.
 
 <img align = "left" src = "https://img.shields.io/badge/Colegio-Escuelas%20Pias%20Carabanchel-9E3A00.svg"> <br>
 **Ntra. Señora de las Escuelas Pías** _2007-2009_ <br>
