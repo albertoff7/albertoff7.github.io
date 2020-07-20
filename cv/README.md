@@ -6,7 +6,7 @@ Desde muy jóven sentí fascinación por las tecnologías de internet y comencé
 
 También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado. Proactivo, responsable y con energía para seguir expandiendo mis conocimientos y experiencia. Creando sinergias que permitan sumar valor allí por donde paso, utilizando la tecnología como activo y palanca estratégica.
 
-## Contacto
+### Contacto
 **Email**: alberto@alberto.ws <br>
 **Teléfono**: +34 695644176 <br>
 
