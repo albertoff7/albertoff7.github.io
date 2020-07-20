@@ -57,6 +57,10 @@ Actividades y responsabilidades:
 _(Enero 2016 - Febrero 2020)_ <br>
 
 Actividades y responsabilidades:
++ **Formación, coordinación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
+
++ **Integrador de tecnologías DevOps.** `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
+
 + **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. 
   + **Diseño, prototipado y creación de arquitecturas de aplicaciones** desde entornos pre hasta produción.
   + **Subida de versiones, explotación, análisis, troubleshooting N2 y N3.**
@@ -70,10 +74,6 @@ Actividades y responsabilidades:
 + **Programación avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
 
 + **Seguimiento e interlocución directa con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio. Supervisión funcional de aplicaciones.
-
-+ **Formación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
-
-+ **Integrador de tecnologías DevOps.** `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `glassfish` `apache` `nodejs` `jboss` `shell script` `bash` `solaris` `suse` `debian` `aix` `svn` `cvs` `nagios` `systemctl` `monit` `smf` `db2` `mysql` `oracle` `j2ee` `vi` `docker` `JDK Mission Control` `memory analyzer` `SoapUI` `JMeter` `jvm` `...`
