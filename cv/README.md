@@ -202,7 +202,7 @@ _Noviembre 2016 - Enero 2017_<br>
 Cloud Computing con Amazon Web Services (AWS) (50h).<br>
 AWS con EC2, S3, Route 53, VPC, RDS, CloudWatch.<br>
 
-<img src = "https://img.shields.io/badge/%20-Google%20Trainning%20%Campus%20Madrid-black.svg"><br>
+<img src = "https://img.shields.io/badge/%20-Google%20Trainning%20Campus%20Madrid-black.svg"><br>
 _Septiempre 2016_<br>
 Google Entrepreneur official training (24h)<br>
 Iniciativa emprendedora y metodología de trabajo en equipo para proyectos de base tecnológica.<br>
