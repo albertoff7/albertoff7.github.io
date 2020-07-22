@@ -6,11 +6,11 @@ Desde muy jóven sentí fascinación por las tecnologías de internet y comencé
 
 También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado. Proactivo, responsable y con energía para seguir expandiendo mis conocimientos y experiencia. Creando sinergias que permitan sumar valor allí por donde paso, utilizando la tecnología como activo y palanca estratégica.
 
+<p align="center"><br>
 ### Contacto
-**Email**: albertof417@gmail.com <br>
-**Teléfono**: +34 695644176 <br>
+**Email**: albertof417@gmail.com **Teléfono**: +34 695644176
+</p><br>
 
-<br>
 <p align="center">
 <a href="mailto:albertof417@gmail.com"> <img src="https://img.shields.io/badge/Email-albertof417@gmail.com-34A1F2.svg" alt="Email"></a>
 <a href="https://github.com/albertoff7"> <img src="https://img.shields.io/badge/Github-albertoff7-34A1F2.svg" alt="GitHub"></a>
