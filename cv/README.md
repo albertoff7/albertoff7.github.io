@@ -38,14 +38,16 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 ## Experiencia Laboral
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
-**Consultor sistemas TI y tecnologías DevOps** <br>
+**Consultor de sistemas TI y tecnologías DevOps** <br>
 _(Febrero 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
-+ Integrador de sistemas `RHEL 7 y 8, Ansible y Openshift`. 
-+ Formación oficial RedHat entorno a las tecnologías de éste fabricante (pendiente de obtener la certificación RHCSA/RHCE).
-+ xxx xxx xxx xxx
-+ xxx xxx xxx xxx
++ Integrador de sistemas `RHEL 7 y 8` y tecnologías del ecosistema DevOps `Ansible, Docker, Kubernetes y Openshift`. 
++ Plan de estudios Red Hat Learning Subscription.
+  + Certificado RHCSA, RHCE, RH Ansible Specialist, RHCJA.
+  + Generar documentación sobre los productos Red Hat.
++ Creación de entornos cloud con AWS.
++ Migración infraestructura interna a Ovirt HA.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ovirt`
@@ -61,17 +63,17 @@ Actividades y responsabilidades:
 
 + **Integrador de tecnologías DevOps.** `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
 
-+ **Administración de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones:` glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. 
-  + **Diseño, prototipado y creación de arquitecturas de aplicaciones** desde entornos pre hasta produción.
-  + **Subida de versiones, explotación, análisis, troubleshooting N2 y N3.**
-  + **Testing funcional y pruebas de rendimiento.** 
++ **Gestión integral de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones: `glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. 
+  + **Provisión, diseño/prototipado y creación de arquitecturas de aplicaciones** desde entornos pre-explotación hasta produción.
+  + **Troubleshooting N2 y N3, subida de versiones, operación, análisis, automatización de procesos y auditoría.** Garantizar la operatividad y disponibilidad de todos los entornos con aplicaciones críticas, que trabajan 24x7x365 con `zero downtime`. 
+  + **Testing funcional y pruebas de rendimiento.** Elaborar propuestas de mejora para el equipo de desarrollo y definir las pruebas para los equipos de testing.
   + **Creación de documentación técnica e informes.**
-  + **Creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`).**
-  + **Definición de SLA's, políticas backup, estandarización de configuraciones y logs**, tareas relacionadas con asegurar la explotación de los sistemas con `zero downtime`.
+  + **Creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`).** Análisis y planificación proactivo eliminando incidencias de forma anticipada.
+  + **Definición de SLA's, políticas backup, estandarización de configuraciones y logs**.
   + **Gestión de código** con `cvs` y `svn`.
   + **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
   
-+ **Programación avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros.
++ **Automatización y programación avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros. Impulsar la mejora contínua de procesos críticos.
 
 + **Seguimiento e interlocución directa con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio. Supervisión funcional de aplicaciones.
 
