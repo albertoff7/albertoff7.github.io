@@ -42,12 +42,12 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 _(Febrero 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
-+ Integrador de sistemas `RHEL 7 y 8` y tecnologías del ecosistema DevOps `Ansible, Docker, Kubernetes y Openshift`. 
-+ Plan de estudios Red Hat Learning Subscription.
-  + Certificado RHCSA, RHCE, RH Ansible Specialist, RHCJA.
-  + Generar documentación sobre los productos Red Hat.
-+ Creación de entornos cloud con AWS.
-+ Migración infraestructura interna a Ovirt HA.
++ **Integrador de sistemas** `RHEL 7 y 8` y tecnologías del ecosistema DevOps `Ansible, Docker, Kubernetes y Openshift`. 
++ **Plan de estudios Red Hat Learning Subscription.**
+  + Certificado **RHCSA, RHCE, RH Ansible Specialist, RHCJA.**
+  + **Generar documentación** sobre los productos Red Hat.
++ **Creación de entornos cloud con AWS.**
++ **Migración infraestructura** interna a Ovirt HA.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `kubernetes` `nginx` `git` `grafana` `ovirt`
