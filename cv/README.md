@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-<p align = "center"> <img src="foto_alberto_cv3.PNG"> </p>
+<p align = "center"> <img src="foto_alberto_cv3.png"> </p>
 
 Desde muy jóven sentí fascinación por las tecnologías de internet y comencé a estudiarlas, tanto de forma autodidacta como con formación en diferentes áreas. Hoy en 2020 soy un profesional TI con 9 años de experiencia laboral creando y administrando arquitecturas de aplicaciones críticas en entornos de producción. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
 
