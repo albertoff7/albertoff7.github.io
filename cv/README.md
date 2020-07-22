@@ -207,109 +207,107 @@ Curso Online de Cloud Computing. AWS con EC2, S3, Route 53, VPC, RDS, CloudWatch
 
 **Red Hat Partner Platform** <br>
 _Febrero 2020 - Julio 2020_ <br>
-Certificado: RHCSA - Red Hat Certified System Administrator
-Certificado: RHCE - Red Hat Certified Engineer
-Certificado: Red Hat Certified Specialist in Ansible Automation
-Licencia de certificación: 190-036-095
-RH124 - Red Hat System Administration I.
-RH134 - Red Hat System Administration II.
-RH199 - RHCSA Rapid Track.
-RH294 - RHCE automatización con Ansible.
-DO180 - Introducción a contenedores, docker y Kubernetes.
-DO280 - Administración Openshift I.
-DO380 - Administración Openshift II.
-Red Hat Sales Engineer Automation Specialist (ansible)
+Certificado: RHCSA - Red Hat Certified System Administrator <br>
+Certificado: RHCE - Red Hat Certified Engineer <br>
+Certificado: Red Hat Certified Specialist in Ansible Automation <br>
+**Licencia de certificación: 190-036-095** <br>
+RH124 - Red Hat System Administration I. <br>
+RH134 - Red Hat System Administration II. <br>
+RH199 - RHCSA Rapid Track. <br>
+RH294 - RHCE automatización con Ansible. <br>
+DO180 - Introducción a contenedores, docker y Kubernetes. <br>
+DO280 - Administración Openshift I. <br>
+DO380 - Administración Openshift II. <br>
+Red Hat Sales Engineer Automation Specialist (ansible) <br>
 
-**Centro TIC Getafe** 
-_Noviembre 2018- Enero 2019_ 
-Certificado: JBOSS Administrator in Enterprise Application Server (340h)
-JBoss Application Administration I. - JB248 (70h)
-JBoss Application Administration II. - JB348 (60h)
-Licencia de certificación: 190-036-095
-Java para JBoss - JB001 (70h)
-OpenShift Enterprise Administration - DO280 (80h)
-Red Hat OpenShift Container Platform Development. - DO290 (60h)
+**Centro TIC Getafe** <br>
+_Noviembre 2018- Enero 2019_ <br>
+Certificado: JBOSS Administrator in Enterprise Application Server (340h) <br>
+**Licencia de certificación: 190-036-095**<br>
+JBoss Application Administration I. - JB248 (70h)<br>
+JBoss Application Administration II. - JB348 (60h)<br>
+Java para JBoss - JB001 (70h)<br>
+OpenShift Enterprise Administration - DO280 (80h)<br>
+Red Hat OpenShift Container Platform Development. - DO290 (60h)<br>
 
-**Tuenti Madrid Office**
-_Marzo 2017_
-Docker 4º Birthday labs (3h)
-Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.
-Noviembre 2016 – Enero 2017
-Universidad politécnica de Valencia
+**Tuenti Madrid Office**<br>
+_Marzo 2017_<br>
+Docker 4º Birthday labs (3h)<br>
+Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.<br>
 
-**Universidad Politécnica de Valencia**
-_Noviembre 2016 - Enero 2017_
-Cloud Computing con Amazon Web Services (AWS) (50h)
+**Universidad Politécnica de Valencia**<br>
+_Noviembre 2016 - Enero 2017_<br>
+Cloud Computing con Amazon Web Services (AWS) (50h)<br>
 
-**Google Trainning (Campus Madrid)**
-_Septiempre 2016_
-Google Entrepreneur official training (24h)
-Iniciativa emprendedora y metodología de trabajo en equipo para proyectos de base tecnológica.
+**Google Trainning (Campus Madrid)**<br>
+_Septiempre 2016_<br>
+Google Entrepreneur official training (24h)<br>
+Iniciativa emprendedora y metodología de trabajo en equipo para proyectos de base tecnológica.<br>
 
-**Centro de Formación IBM**
-_Noviembre - Diciembre 2015_
-Programación Avanzada II en Shell Script  (100h)
-Programación Avanzada II Shell Script, awk, sed y fundamentos PERL.
+**Centro de Formación IBM**<br>
+_Noviembre - Diciembre 2015_<br>
+Programación Avanzada II en Shell Script  (100h)<br>
+Programación Avanzada II Shell Script, awk, sed y fundamentos PERL.<br>
 
-**Centro de Formación CEIM**
-_Mayo 2014_
-Habilidades directivas: Toma de decisiones (25h)
-Toma de decisiones, Influir y motivar al equipo, gestión del tiempo.
+**Centro de Formación CEIM**<br>
+_Mayo 2014_<br>
+Habilidades directivas: Toma de decisiones (25h)<br>
+Toma de decisiones, Influir y motivar al equipo, gestión del tiempo.<br>
 
-**Centro de Formación Cas-Training**
-_Abril 2014_
-Fundamentos ITIL V3 (20 horas)
-ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Library.
+**Centro de Formación Cas-Training**<br>
+_Abril 2014_<br>
+Fundamentos ITIL V3 (20 horas)<br>
+ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Library.<br>
 
-**Centro de Formación IBM**
-_Enero – Abril 2014_
-Administración Sistemas AIX 7.1 (incluye versiones 6, 5.3 etc) (240horas)
-- AIX Essentials 
-- Administración AIX Avanzada I y II
-- Network Administration Operating System
+**Centro de Formación IBM**<br>
+_Enero – Abril 2014_<br>
+Administración Sistemas AIX 7.1 (incluye versiones 6, 5.3 etc) (240horas)<br>
+- AIX Essentials <br>
+- Administración AIX Avanzada I y II<br>
+- Network Administration Operating System<br>
 
-**Formación Plan CEIM**
-_Abril – Mayo 2013_
-Técnicas Posicionamiento SEO y SEM en Google. (76 horas)
-Posicionamiento en Buscadores, Gestión Redes Sociales, optimización orientada a Gestores de Contenido CMS.
+**Formación Plan CEIM**<br>
+_Abril – Mayo 2013_<br>
+Técnicas Posicionamiento SEO y SEM en Google. (76 horas)<br>
+Posicionamiento en Buscadores, Gestión Redes Sociales, optimización orientada a Gestores de Contenido CMS.<br>
 
-**Centro de Formación IBM**
-_Octubre 2012_
-Programación Avanzada en Shell Script. (40 horas)
-Control de flujo, Traps, expresiones regulares, AWK, SED, funciones, mandatos, Shell.
+**Centro de Formación IBM**<br>
+_Octubre 2012_<br>
+Programación Avanzada en Shell Script. (40 horas)<br>
+Control de flujo, Traps, expresiones regulares, AWK, SED, funciones, mandatos, Shell.<br>
 
-**Centro TIC Getafe**
-_Enero – Mayo 2012_
-Administración Sistemas Operativos Solaris 10. (300 horas)
-- Solaris 10 Operating System Essentials, 
-- Administración Solaris I y II, 
-- Network Administration Operating System, 
-- Administering Security on the Solaris OS.
+**Centro TIC Getafe**<br>
+_Enero – Mayo 2012_<br>
+Administración Sistemas Operativos Solaris 10. (300 horas)<br>
+- Solaris 10 Operating System Essentials, <br>
+- Administración Solaris I y II, <br>
+- Network Administration Operating System, <br>
+- Administering Security on the Solaris OS.<br>
 
-**Centro TIC Getafe**
-_Mayo – Julio 2011_
-Administración Bases de Datos ORACLE. (164 horas)
-- Introducción al SQL (33h),  
-- Programación PL/SQL (33h), 
--  Administración de Bases de datos I y II (66h), 
--  SQL Ajustes de Rendimiento (32h).
+**Centro TIC Getafe**<br>
+_Mayo – Julio 2011_<br>
+Administración Bases de Datos ORACLE. (164 horas)<br>
+- Introducción al SQL (33h)  <br>
+- Programación PL/SQL (33h) <br>
+-  Administración de Bases de datos I y II (66h) <br>
+-  SQL Ajustes de Rendimiento (32h)<br>
 
-**Centro MSI Formación**
-_Septiembre – Noviembre 2010_
-Administración de Equipos Hardware de Interconexión (164 horas)
-Protocolos, Hubs, Swicthes, Bridges, Routers, Brouters y Gateways.
+**Centro MSI Formación**<br>
+_Septiembre – Noviembre 2010_<br>
+Administración de Equipos Hardware de Interconexión (164 horas)<br>
+Protocolos, Hubs, Swicthes, Bridges, Routers, Brouters y Gateways.<br>
 
-**Centro Institución La Salle**
-_2009 – 2010_
-Curso de Mantenimiento de equipos informáticos INEM (310 horas)
-Hardware, Software, Raid, Servidores, SAI, Redes, Instalaciones, WIFI.
+**Centro Institución La Salle**<br>
+_2009 – 2010_<br>
+Curso de Mantenimiento de equipos informáticos INEM (310 horas)<br>
+Hardware, Software, Raid, Servidores, SAI, Redes, Instalaciones, WIFI.<br>
 
-**UNED**
-_2009 – 2010_
-Master UNED Derecho informático (300h)
-Propiedad de bienes informáticos, Protección de Datos, Documento y firma electrónica.
+**UNED**<br>
+_2009 – 2010_<br>
+Master UNED Derecho informático (300h)<br>
+Propiedad de bienes informáticos, Protección de Datos, Documento y firma electrónica.<br>
 
-**Trinity Collegue**
-_2000 – 2007_
-Trinity College of London. Graded in Spoken English. Grade 7.
-Graduado por el Trinity College of London.
+**Trinity Collegue**<br>
+_2000 – 2007_<br>
+Trinity College of London. Graded in Spoken English. Grade 7.<br>
+Graduado por el Trinity College of London.<br>
