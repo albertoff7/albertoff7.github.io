@@ -214,7 +214,8 @@ Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.<br
 
 <img src = "https://img.shields.io/badge/%20-Universidad%20Politécnica%20de%20Valencia-black.svg"><br>
 _Noviembre 2016 - Enero 2017_<br>
-Cloud Computing con Amazon Web Services (AWS) (50h). AWS con EC2, S3, Route 53, VPC, RDS, CloudWatch.<br>
+Cloud Computing con Amazon Web Services (AWS) (50h).<br>
+AWS con EC2, S3, Route 53, VPC, RDS, CloudWatch.<br>
 
 <img src = "https://img.shields.io/badge/%20-Google%20Trainning%20%Campus%20Madrid-black.svg"><br>
 _Septiempre 2016_<br>
@@ -224,17 +225,17 @@ Iniciativa emprendedora y metodología de trabajo en equipo para proyectos de ba
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
 _Noviembre - Diciembre 2015_<br>
 Programación Avanzada II en Shell Script  (100h)<br>
-\- Programación Avanzada con bash, awk, sed y fundamentos PERL.<br>
+Programación Avanzada con bash, awk, sed y fundamentos PERL.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20CEIM-black.svg"><br>
 _Mayo 2014_<br>
 Habilidades directivas: Toma de decisiones (25h)<br>
-\- Toma de decisiones, Influir y motivar al equipo, gestión del tiempo.<br>
+Toma de decisiones, Influir y motivar al equipo, gestión del tiempo.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20CasTraining-black.svg"><br>
 _Abril 2014_<br>
 Fundamentos ITIL V3 (20 horas)<br>
-\- ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Library.<br>
+ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Library.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
 _Enero – Abril 2014_<br>
@@ -246,7 +247,7 @@ Administración Sistemas AIX 7.1 (240horas)<br>
 <img src = "https://img.shields.io/badge/%20-Formación%20Plan%20CEIM-black.svg"><br>
 _Abril – Mayo 2013_<br>
 Técnicas Posicionamiento SEO y SEM en Google. (76 horas)<br>
-\- Posicionamiento en Buscadores, Gestión Redes Sociales, optimización orientada a Gestores de Contenido CMS.<br>
+Posicionamiento en Buscadores, gestión Redes Sociales, optimización orientada a gestores de contenido CMS.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
 _Octubre 2012_<br>
@@ -272,17 +273,17 @@ Administración Bases de Datos ORACLE. (164 horas)<br>
 <img src = "https://img.shields.io/badge/%20-Centro%20MSI%20Formación-black.svg"><br>
 _Septiembre – Noviembre 2010_<br>
 Administración de Equipos Hardware de Interconexión (164 horas)<br>
-\- Protocolos, Hubs, Swicthes, Bridges, Routers, Brouters y Gateways.<br>
+Protocolos, Hubs, Swicthes, Bridges, Routers, Brouters y Gateways.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20Institución%20La%20Salle-black.svg"><br>
 _2009 – 2010_<br>
 Curso de Mantenimiento de equipos informáticos INEM (310 horas)<br>
-\- Hardware, Software, Raid, Servidores, SAI, Redes, Instalaciones, WIFI.<br>
+Hardware, Software, Raid, Servidores, SAI, Redes, Instalaciones, WIFI.<br>
 
 <img src = "https://img.shields.io/badge/%20-UNED-black.svg"><br>
 _2009 – 2010_<br>
 Master UNED Derecho informático (300h)<br>
-\- Propiedad de bienes informáticos, Protección de Datos, Documento y firma electrónica.<br>
+Propiedad de bienes informáticos, Protección de Datos, Documento y firma electrónica.<br>
 
 <img src = "https://img.shields.io/badge/%20-Trinity%20Collegue-black.svg"><br>
 _2000 – 2007_<br>
@@ -290,3 +291,13 @@ Trinity College of London. Graded in Spoken English. Grade 7.<br>
 Graduado por el Trinity College of London.<br>
 
 ---
+
+## Otros datos
+
+Lengua materna: Español
+
+Idiomas:
+- Inglés: Lectura y escritura nivel alto. Expresión oral nivel medio (B2).
+
+Permiso(s) de conducción: 
+- Permiso de Conducir B, PER.
