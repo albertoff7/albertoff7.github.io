@@ -54,7 +54,7 @@ Actividades y responsabilidades:
 ---
 
 <img src = "https://img.shields.io/badge/Empresa-TIREA-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Fluentia-orange.svg"> <br>
-**Administrador Middleware Senior** _en entornos unix_<br>
+**Administrador Middleware Senior** _en entornos Unix_<br>
 _(Enero 2016 - Febrero 2020)_ <br>
 
 Actividades y responsabilidades:
