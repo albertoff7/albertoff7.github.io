@@ -294,10 +294,11 @@ Graduado por el Trinity College of London.<br>
 
 ## Otros datos
 
-Lengua materna: Español
+Español como lengua materna.
 
 Idiomas:
 - Inglés: Lectura y escritura nivel alto. Expresión oral nivel medio (B2).
+- Francés: Nivel bajo.
 
 Permiso(s) de conducción: 
 - Permiso de Conducir B, PER.
