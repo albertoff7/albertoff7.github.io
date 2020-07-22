@@ -63,7 +63,7 @@ Actividades y responsabilidades:
 
 + **Integrador de tecnologías DevOps.** `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
 
-+ **Gestión integral de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones: `glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `Oracle`. 
++ **Gestión integral de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones: `glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `oracle`. 
   + **Provisión, diseño/prototipado y creación de arquitecturas de aplicaciones** desde entornos pre-explotación hasta produción.
   + **Troubleshooting N2 y N3, subida de versiones, operación, análisis, automatización de procesos y auditoría.** Garantizar la operatividad y disponibilidad de todos los entornos con aplicaciones críticas, que trabajan 24x7x365 con `zero downtime`. 
   + **Testing funcional y pruebas de rendimiento.** Elaborar propuestas de mejora para el equipo de desarrollo y definir las pruebas para los equipos de testing.
@@ -89,30 +89,30 @@ _(Noviembre 2012 - Enero 2016)_ <br>
 Actividades y responsabilidades:
 + **Administración de servidores y aplicaciones** de una gran variedad de tecnologías, bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. Desempeño de tareas relativas a mantener la operatividad de los aplicativos y la de sus interfaces.
   + **Seguimiento técnico en el despliegue de nuevas versiones de sistemas en producción** así como en sus correspondientes entornos de pre-producción. Soporte y resolución de problemas. Planificación y gestión de cambios, creando un flujo de trabajo para delegar tareas en otros equipos.
-  + **Planificación del sistema de alarmas**, estableciendo puntos de monitorización de referencia en las aplicaciones.
+  + **Planificación del sistema de monitorización**, estableciendo puntos de control de referencia en las aplicaciones.
   + **Soporte en el escalado de incidencias críticas** y supervisión de procedimientos para otros grupos técnicos.
   + **Guardias**: Móvil de guardia y soporte fuera de horario para incidencias de sistemas críticos escaladas en severidad.
   
 + **Programación avanzada shell script**: Desarrollo de aplicaciones en `shell script` para la administración, optimización, automatización y monitorización de sistemas. `funciones bash` `awk` `sed`.
 
-+ **Seguimiento y mejora contínua de problemas**, reuniones diarias planificando mejoras en previsión de problemas futuros.
++ **Seguimiento y mejora contínua de problemas**, reuniones diarias planificando mejoras para la prevención de problemas futuros.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM`
 
 ---
 <img src = "https://img.shields.io/badge/Cliente-IBM-black.svg"> <img src = "https://img.shields.io/badge/Cliente-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
-**Administrador Middleware Junior y operador de sistemas** _en entorno Unix_ <br>
+**Administrador Middleware Junior y Operador de sistemas** _en entorno Unix_ <br>
 _(Febrero 2011 - Noviembre 2012)_ <br>
 
 Actividades y responsabilidades:
 + **Administración de servidores y aplicaciones** en sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`.
   + **Despliegue de nuevas versiones en sistemas en producción** y pre-producción.
   + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora`, `Remedy`).
-  + **Documentacion de problemas** y creación de manuales para otros grupos. Realización de informes técnicos para cliente.
+  + **Documentacion de problemas** y creación de manuales. Realización de informes técnicos para cliente.
   + **Resolución y seguimiento de incidencias con escalado a grupos técnicos especialistas.**
   
-+ **Programación shell script.** Automatizaciones en `shell script` para la administración y monitorización de aplicaciones/sistemas.
++ **Programación shell script.** Automatizaciones simples en `shell script` para la administración y monitorización de aplicaciones/sistemas.
 
 + **Operaciones enfocadas al diagnóstico y la operatividad de sistemas Unix y BBDD**.
 
@@ -164,7 +164,7 @@ Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UOC-9E3A00.svg"> <br>
 **Universidad Oberta de Catalunya** _2018_ <br> \*_No finalizado_\*
-Cursado primer año en Grado Diseño y Creación Digital en régimen semi-presencial.
+Grado Diseño y Creación Digital en régimen semi-presencial.
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
 **Universidad Carlos III Madrid** _2012_ <br> \*_No finalizado_\*
@@ -172,7 +172,7 @@ Grado Información y Documentación en la Universidad Carlos III Madrid en régi
 
 <img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
 **Formador en las ponencias del GUL** _Febrero 2014_ <br>
-Formador para el programa whatshApache (y su desarrollo) en las jornadas del GUL 2014.
+Formador para el programa whatshApache (desarrollo propio) en las jornadas del GUL 2014.
 
 <img align = "left" src = "https://img.shields.io/badge/Colegio-Escuelas%20Pias%20Carabanchel-9E3A00.svg"> <br>
 **Ntra. Señora de las Escuelas Pías** _2007-2009_ <br>
