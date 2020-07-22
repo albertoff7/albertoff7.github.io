@@ -210,25 +210,25 @@ _Febrero 2020 - Julio 2020_ <br>
 Certificado: RHCSA - Red Hat Certified System Administrator <br>
 Certificado: RHCE - Red Hat Certified Engineer <br>
 Certificado: Red Hat Certified Specialist in Ansible Automation <br>
-**Licencia de certificación: 190-036-095** <br> <br>
-\-RH124 - Red Hat System Administration I. <br>
-\-RH134 - Red Hat System Administration II. <br>
-\-RH199 - RHCSA Rapid Track. <br>
-\-RH294 - RHCE automatización con Ansible. <br>
-\-DO180 - Introducción a contenedores, docker y Kubernetes. <br>
-\-DO280 - Administración Openshift I. <br>
-\-DO380 - Administración Openshift II. <br>
-\-Red Hat Sales Engineer Automation Specialist (ansible) <br>
+**Licencia de certificación: 190-036-095** <br>
+\- RH124 - Red Hat System Administration I. <br>
+\- RH134 - Red Hat System Administration II. <br>
+\- RH199 - RHCSA Rapid Track. <br>
+\- RH294 - RHCE automatización con Ansible. <br>
+\- DO180 - Introducción a contenedores, docker y Kubernetes. <br>
+\- DO280 - Administración Openshift I. <br>
+\- DO380 - Administración Openshift II. <br>
+\- Red Hat Sales Engineer Automation Specialist (ansible) <br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg"><br>
 _Noviembre 2018- Enero 2019_ <br>
 Certificado: JBOSS Administrator in Enterprise Application Server (340h) <br>
 **Licencia de certificación: 190-036-095**<br>
-\-JBoss Application Administration I. - JB248 (70h)<br>
-\-JBoss Application Administration II. - JB348 (60h)<br>
-\-Java para JBoss - JB001 (70h)<br>
-\-OpenShift Enterprise Administration - DO280 (80h)<br>
-\-Red Hat OpenShift Container Platform Development. - DO290 (60h)<br>
+\- JBoss Application Administration I. - JB248 (70h)<br>
+\- JBoss Application Administration II. - JB348 (60h)<br>
+\- Java para JBoss - JB001 (70h)<br>
+\- OpenShift Enterprise Administration - DO280 (80h)<br>
+\- Red Hat OpenShift Container Platform Development. - DO290 (60h)<br>
 
 <img src = "https://img.shields.io/badge/%20-Tuenti%20Madrid%20Office-black.svg"><br>
 _Marzo 2017_<br>
