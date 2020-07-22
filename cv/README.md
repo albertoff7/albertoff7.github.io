@@ -262,9 +262,9 @@ ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Libra
 **Centro de Formación IBM**<br>
 _Enero – Abril 2014_<br>
 Administración Sistemas AIX 7.1 (incluye versiones 6, 5.3 etc) (240horas)<br>
-- AIX Essentials <br>
-- Administración AIX Avanzada I y II<br>
-- Network Administration Operating System<br>
+AIX Essentials <br>
+Administración AIX Avanzada I y II<br>
+Network Administration Operating System<br>
 
 **Formación Plan CEIM**<br>
 _Abril – Mayo 2013_<br>
@@ -287,10 +287,10 @@ Administración Sistemas Operativos Solaris 10. (300 horas)<br>
 **Centro TIC Getafe**<br>
 _Mayo – Julio 2011_<br>
 Administración Bases de Datos ORACLE. (164 horas)<br>
-- Introducción al SQL (33h)  <br>
-- Programación PL/SQL (33h) <br>
--  Administración de Bases de datos I y II (66h) <br>
--  SQL Ajustes de Rendimiento (32h)<br>
+Introducción al SQL (33h)  <br>
+Programación PL/SQL (33h) <br>
+Administración de Bases de datos I y II (66h) <br>
+SQL Ajustes de Rendimiento (32h)<br>
 
 **Centro MSI Formación**<br>
 _Septiembre – Noviembre 2010_<br>
@@ -311,3 +311,21 @@ Propiedad de bienes informáticos, Protección de Datos, Documento y firma elect
 _2000 – 2007_<br>
 Trinity College of London. Graded in Spoken English. Grade 7.<br>
 Graduado por el Trinity College of London.<br>
+
+<img src = "https://img.shields.io/badge/%20-Red%20Hat%20Partner%20Platform-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg">
+<img src = "https://img.shields.io/badge/%20-Tuenti%20Madrid%20Office-black.svg">
+<img src = "https://img.shields.io/badge/%20-Universidad%20Politécnica%20de%20Valencia-black.svg">
+<img src = "https://img.shields.io/badge/%20-Google%20Trainning%20-Campus%20Madrid-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20CEIM-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20Cas-Training-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg">
+<img src = "https://img.shields.io/badge/%20-Formación%20Plan%20CEIM-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20MSI%20Formación-black.svg">
+<img src = "https://img.shields.io/badge/%20-Centro%20Institución%20La%20Salle-black.svg">
+<img src = "https://img.shields.io/badge/%20-UNED-black.svg">
+<img src = "https://img.shields.io/badge/%20-Trinity%20Collegue-black.svg">
