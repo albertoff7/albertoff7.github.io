@@ -193,7 +193,7 @@ RH124 Red Hat System Administration I, RH134 Red Hat System Administration II, R
 _Noviembre 2018- Enero 2019_ <br>
 Certificado: JBOSS Administrator in Enterprise Application Server (340h) <br>
 **Licencia de certificación: 190-036-095**<br>
-JBoss Application Administration I. JB248 (70h), JBoss Application Administration II. JB348 (60h), Java para JBoss JB001 (70h), OpenShift Enterprise Administration DO280 (80h), Red Hat OpenShift Container Platform Development DO290 (60h)<br>
+JB248 JBoss Application Administration I. (70h), JB348 JBoss Application Administration II. (60h), JB001 Java para JBoss (70h), DO280 OpenShift Enterprise Administration (80h), DO290 Red Hat OpenShift Container Platform Development (60h)<br>
 
 <img src = "https://img.shields.io/badge/%20-Tuenti%20Madrid%20Office-black.svg"><br>
 _Marzo 2017_<br>
@@ -228,7 +228,7 @@ ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Libra
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
 _Enero – Abril 2014_<br>
 Administración Sistemas AIX 7.1 (240horas)<br>
-AIX Essentials <br>, administración AIX Avanzada I y II, Network Administration Operating System<br>
+AIX Essentials, administración AIX Avanzada I y II, Network Administration Operating System<br>
 
 <img src = "https://img.shields.io/badge/%20-Formación%20Plan%20CEIM-black.svg"><br>
 _Abril – Mayo 2013_<br>
