@@ -210,29 +210,29 @@ _Febrero 2020 - Julio 2020_ <br>
 Certificado: RHCSA - Red Hat Certified System Administrator <br>
 Certificado: RHCE - Red Hat Certified Engineer <br>
 Certificado: Red Hat Certified Specialist in Ansible Automation <br>
-**Licencia de certificación: 190-036-095** <br>
-RH124 - Red Hat System Administration I. <br>
-RH134 - Red Hat System Administration II. <br>
-RH199 - RHCSA Rapid Track. <br>
-RH294 - RHCE automatización con Ansible. <br>
-DO180 - Introducción a contenedores, docker y Kubernetes. <br>
-DO280 - Administración Openshift I. <br>
-DO380 - Administración Openshift II. <br>
-Red Hat Sales Engineer Automation Specialist (ansible) <br>
+**Licencia de certificación: 190-036-095** <br> <br>
+\-RH124 - Red Hat System Administration I. <br>
+\-RH134 - Red Hat System Administration II. <br>
+\-RH199 - RHCSA Rapid Track. <br>
+\-RH294 - RHCE automatización con Ansible. <br>
+\-DO180 - Introducción a contenedores, docker y Kubernetes. <br>
+\-DO280 - Administración Openshift I. <br>
+\-DO380 - Administración Openshift II. <br>
+\-Red Hat Sales Engineer Automation Specialist (ansible) <br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg"><br>
 _Noviembre 2018- Enero 2019_ <br>
 Certificado: JBOSS Administrator in Enterprise Application Server (340h) <br>
 **Licencia de certificación: 190-036-095**<br>
-JBoss Application Administration I. - JB248 (70h)<br>
-JBoss Application Administration II. - JB348 (60h)<br>
-Java para JBoss - JB001 (70h)<br>
-OpenShift Enterprise Administration - DO280 (80h)<br>
-Red Hat OpenShift Container Platform Development. - DO290 (60h)<br>
+\-JBoss Application Administration I. - JB248 (70h)<br>
+\-JBoss Application Administration II. - JB348 (60h)<br>
+\-Java para JBoss - JB001 (70h)<br>
+\-OpenShift Enterprise Administration - DO280 (80h)<br>
+\-Red Hat OpenShift Container Platform Development. - DO290 (60h)<br>
 
 <img src = "https://img.shields.io/badge/%20-Tuenti%20Madrid%20Office-black.svg"><br>
 _Marzo 2017_<br>
-Docker 4º Birthday labs (3h)<br>
+Docker 4º Birthday labs <br>
 Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.<br>
 
 <img src = "https://img.shields.io/badge/%20-Universidad%20Politécnica%20de%20Valencia-black.svg"><br>
@@ -247,65 +247,65 @@ Iniciativa emprendedora y metodología de trabajo en equipo para proyectos de ba
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
 _Noviembre - Diciembre 2015_<br>
 Programación Avanzada II en Shell Script  (100h)<br>
-Programación Avanzada II Shell Script, awk, sed y fundamentos PERL.<br>
+\-Programación Avanzada con bash, awk, sed y fundamentos PERL.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20CEIM-black.svg"><br>
 _Mayo 2014_<br>
 Habilidades directivas: Toma de decisiones (25h)<br>
-Toma de decisiones, Influir y motivar al equipo, gestión del tiempo.<br>
+\-Toma de decisiones, Influir y motivar al equipo, gestión del tiempo.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20CasTraining-black.svg"><br>
 _Abril 2014_<br>
 Fundamentos ITIL V3 (20 horas)<br>
-ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Library.<br>
+\-ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Library.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
 _Enero – Abril 2014_<br>
-Administración Sistemas AIX 7.1 (incluye versiones 6, 5.3 etc) (240horas)<br>
-AIX Essentials <br>
-Administración AIX Avanzada I y II<br>
-Network Administration Operating System<br>
+Administración Sistemas AIX 7.1 (240horas)<br>
+\-AIX Essentials <br>
+\-Administración AIX Avanzada I y II<br>
+\-Network Administration Operating System<br>
 
 <img src = "https://img.shields.io/badge/%20-Formación%20Plan%20CEIM-black.svg"><br>
 _Abril – Mayo 2013_<br>
 Técnicas Posicionamiento SEO y SEM en Google. (76 horas)<br>
-Posicionamiento en Buscadores, Gestión Redes Sociales, optimización orientada a Gestores de Contenido CMS.<br>
+\-Posicionamiento en Buscadores, Gestión Redes Sociales, optimización orientada a Gestores de Contenido CMS.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
 _Octubre 2012_<br>
 Programación Avanzada en Shell Script. (40 horas)<br>
-Control de flujo, Traps, expresiones regulares, AWK, SED, funciones, mandatos, Shell.<br>
+\-Control de flujo, Traps, expresiones regulares, AWK, SED, funciones, mandatos, Shell.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg"><br>
 _Enero – Mayo 2012_<br>
 Administración Sistemas Operativos Solaris 10. (300 horas)<br>
-Solaris 10 Operating System Essentials, <br>
-Administración Solaris I y II, <br>
-Network Administration Operating System, <br>
-Administering Security on the Solaris OS.<br>
+\-Solaris 10 Operating System Essentials, <br>
+\-Administración Solaris I y II, <br>
+\-Network Administration Operating System, <br>
+\-Administering Security on the Solaris OS.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg"><br>
 _Mayo – Julio 2011_<br>
 Administración Bases de Datos ORACLE. (164 horas)<br>
-Introducción al SQL (33h)  <br>
-Programación PL/SQL (33h) <br>
-Administración de Bases de datos I y II (66h) <br>
-SQL Ajustes de Rendimiento (32h)<br>
+\-Introducción al SQL (33h)  <br>
+\-Programación PL/SQL (33h) <br>
+\-Administración de Bases de datos I y II (66h) <br>
+\-SQL Ajustes de Rendimiento (32h)<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20MSI%20Formación-black.svg"><br>
 _Septiembre – Noviembre 2010_<br>
 Administración de Equipos Hardware de Interconexión (164 horas)<br>
-Protocolos, Hubs, Swicthes, Bridges, Routers, Brouters y Gateways.<br>
+\-Protocolos, Hubs, Swicthes, Bridges, Routers, Brouters y Gateways.<br>
 
 <img src = "https://img.shields.io/badge/%20-Centro%20Institución%20La%20Salle-black.svg"><br>
 _2009 – 2010_<br>
 Curso de Mantenimiento de equipos informáticos INEM (310 horas)<br>
-Hardware, Software, Raid, Servidores, SAI, Redes, Instalaciones, WIFI.<br>
+\-Hardware, Software, Raid, Servidores, SAI, Redes, Instalaciones, WIFI.<br>
 
-<img src = "https://img.shields.io/badge/%20-UNED-black.svg">
+<img src = "https://img.shields.io/badge/%20-UNED-black.svg"><br>
 _2009 – 2010_<br>
 Master UNED Derecho informático (300h)<br>
-Propiedad de bienes informáticos, Protección de Datos, Documento y firma electrónica.<br>
+\-Propiedad de bienes informáticos, Protección de Datos, Documento y firma electrónica.<br>
 
 <img src = "https://img.shields.io/badge/%20-Trinity%20Collegue-black.svg"><br>
 _2000 – 2007_<br>
