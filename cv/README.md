@@ -34,7 +34,7 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 ## Experiencia Laboral
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
-**Consultor de sistemas TI y tecnologías DevOps** <br>
+**Consultor de sistemas Linux, tecnologías DevOps e Ingeniero de sistemas RHEL** <br>
 _(Febrero 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
@@ -54,7 +54,7 @@ Actividades y responsabilidades:
 ---
 
 <img src = "https://img.shields.io/badge/Empresa-TIREA-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Fluentia-orange.svg"> <br>
-**Administrador Middleware Senior** _en entornos Unix_<br>
+**Arquitecto y administrador de aplicaciones Middleware Senior** _en entornos Unix_<br>
 _(Enero 2016 - Febrero 2020)_ <br>
 
 Actividades y responsabilidades:
@@ -101,7 +101,7 @@ Actividades y responsabilidades:
 
 ---
 <img src = "https://img.shields.io/badge/Cliente-IBM-black.svg"> <img src = "https://img.shields.io/badge/Cliente-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
-**Administrador Middleware Junior y Operador de sistemas** _en entorno Unix_ <br>
+**Administrador Middleware Junior y administrador de sistemas** _en entorno Unix_ <br>
 _(Febrero 2011 - Noviembre 2012)_ <br>
 
 Actividades y responsabilidades:
