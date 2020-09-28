@@ -39,11 +39,14 @@ _(Febrero 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
 + **Integrador de sistemas** `RHEL 7 y 8` y tecnologías del ecosistema DevOps `Ansible, Docker, Kubernetes y Openshift`. 
-+ **Plan de estudios Red Hat Learning Subscription.**
++ **Red Hat Learning Subscription Path**
   + Certificado **RHCSA, RHCE, RH Ansible Specialist, RHCJA.**
   + **Generar documentación** sobre los productos Red Hat.
-+ **Creación de entornos cloud con AWS.**
-+ **Migración infraestructura** interna a Ovirt HA.
++ Gestión de infraestructuras con **Ansible**. Instalación, creación de roles, creación de inventario, playbooks, etc.
++ **Creación de entornos cloud con AWS.** EC2, VPC, Route53, RDS, IAM, etc.
++ **Migración de infraestructura** interna a Ovirt HA.
++ Sistema de versionado de software **Git**.
++ Automatización con **Rundeck, ansible, bash y python**.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `aws` `kubernetes` `nginx` `git` `grafana` `ovirt`
