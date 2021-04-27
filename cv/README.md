@@ -38,9 +38,9 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 _(Octubre 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
-+ Participo como integrador en el desarrollo de proyectos ágiles de automatización con tecnologías DevOps.
-+ Elaboro de guías de estilo, cursos, laboratorios y soy instructor en tecnologías DevOps para clientes en transformación digital.
-+ Selección de nuevos compañeros que se incorporan al equipo y criba curricular.
++ Participo como **integrador en el desarrollo de proyectos ágiles de automatización con tecnologías DevOps.**
++ Elaboro guías de estilo, cursos, laboratorios e **imparto formación en tecnologías DevOps** para clientes en transformación digital.
++ Realizo entrevistas y **valoración técnica a futuros compañeros**, criba curricular.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `linux` `ansible` `molecule` `k8s` `openshift` `docker` `aws` `rancher` `jmeter` `vmware` `terraform` `git`
