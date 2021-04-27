@@ -33,9 +33,23 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 
 ## Experiencia Laboral
 
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Paradigma%20Digital-orange.svg"> <br>
+**Ingeniero de sistemas Linux y DevOps** <br>
+_(Octubre 2020 - Actualidad)_ <br>
+
+Actividades y responsabilidades:
++ Participo como integrador en el desarrollo de proyectos ágiles de automatización con tecnologías DevOps.
++ Elaboro de guías de estilo, cursos, laboratorios y soy instructor en tecnologías DevOps para clientes en transformación digital.
++ Selección de nuevos compañeros que se incorporan al equipo y criba curricular.
+
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
+`linux` `ansible` `molecule` `k8s` `openshift` `docker` `aws` `rancher` `jmeter` `vmware` `terraform` `git`
+
+---
+
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
 **Consultor de sistemas Linux, tecnologías DevOps e Ingeniero de sistemas RHEL** <br>
-_(Febrero 2020 - Actualidad)_ <br>
+_(Febrero 2020 - Octubre 2020)_ <br>
 
 Actividades y responsabilidades:
 + **Integrador de sistemas** `RHEL 7 y 8` y tecnologías del ecosistema DevOps `Ansible, Docker, Kubernetes y Openshift`. 
