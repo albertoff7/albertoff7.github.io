@@ -26,6 +26,7 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 **Licencia Red Hat 190-036-095**
 - Red Hat Certified Engineer (RHCE)
 - Red Hat Certified Specialist in Ansible Automation
+- Red Hat Certified Advanced Automation: Ansible Best Practices
 - Red Hat Certified System Administrator (RHCSA)
 - Red Hat Certified Specialist in Enterprise Application Server (RHJCA)
 
