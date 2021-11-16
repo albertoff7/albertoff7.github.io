@@ -2,7 +2,7 @@
 
 <p align = "center"> <img src="foto_alberto_cv3.png"> </p>
 
-Desde muy jóven **sentí fascinación por las tecnologías de internet** y comencé a estudiarlas, tanto de forma autodidacta como con formación en diferentes áreas. Hoy en 2020 soy un profesional TI con **9 años de experiencia laboral creando y administrando arquitecturas de aplicaciones críticas en entornos de producción**. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
+Desde muy jóven **sentí fascinación por las tecnologías de internet** y comencé a estudiarlas, tanto de forma autodidacta como con formación en diferentes áreas. Hoy en 2020 soy un profesional TI con más de **10 años de experiencia laboral creando y administrando arquitecturas de aplicaciones críticas en entornos de producción**. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
 
 También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado. **Proactivo, responsable y con energía** para seguir expandiendo mis conocimientos y experiencia. Creando sinergias que permitan sumar valor allí por donde paso, **utilizando la tecnología como activo y palanca estratégica**.
 
@@ -29,7 +29,7 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 - Red Hat Certified Advanced Automation: Ansible Best Practices
 - Red Hat Certified System Administrator (RHCSA)
 - Red Hat Certified Specialist in Enterprise Application Server (RHJCA)
-
+- Red Hat Certified Specialist in OpenShift Administration
 ---
 
 ## Experiencia Laboral
