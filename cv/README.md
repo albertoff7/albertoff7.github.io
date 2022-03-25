@@ -32,6 +32,7 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
   - Red Hat Certified Advanced Automation: Ansible Best Practices
   - Red Hat Certified System Administrator (RHCSA)
   - Red Hat Certified Specialist in Enterprise Application Server (RHJCA)
+  
 ---
 
 ## Experiencia Laboral
