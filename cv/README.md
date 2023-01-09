@@ -46,11 +46,10 @@ Actividades y responsabilidades:
 + Elaboro guías de estilo, cursos, laboratorios e **imparto formación en tecnologías DevOps** para clientes en transformación digital.
 + Realizo entrevistas y **valoración técnica a futuros compañeros**, criba curricular.
 + Hardening de sistemas y aplicaciones con roles ansible, testing con molecule y testinfra.
-+ Implementar herramientas de análisis, seguridad y buenas prácticas en pipelines. Aquasec, trivy, tfsec, Scout Suite, checkov, trufflesecurity, anchore, clair.
++ Implementar herramientas de análisis, seguridad y buenas prácticas en pipelines.
 
-Tecnologías:
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
-`docker` `ansible` `molecule` `k8s` `openshift` `k3s` `terraform` `git` `aws` `rancher` `jmeter` `linux` `vmware` 
+`ansible` `docker` `k8s` `openshift` `terraform` `git` `aws` `helm` `k3s` `rancher` `jenkins` `jmeter` `linux` `vmware` `molecule` `linux` `aquasec` `trivy` `tfsec` `ScoutSuite` `checkov` `trufflesecurity` `anchore` `clair`
 
 ---
 
