@@ -37,15 +37,19 @@ Soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nub
 ## Experiencia Laboral
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Paradigma%20Digital-orange.svg"> <br>
-**Ingeniero de sistemas Linux y DevOps** <br>
+**DevSecOps Engineer** <br>
 _(Octubre 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
-+ Participo como **integrador en el desarrollo de proyectos ágiles de automatización con tecnologías DevOps.**
++ Provision de infraestructura, **automatización con Terraform y Ansible** sobre AWS nube pública.
++ Desarrollo de imágenes de **contenedores docker** y **despliegue en K8S**.
 + Elaboro guías de estilo, cursos, laboratorios e **imparto formación en tecnologías DevOps** para clientes en transformación digital.
 + Realizo entrevistas y **valoración técnica a futuros compañeros**, criba curricular.
-+ **Hardening** de sistemas y aplicaciones con roles ansible, **testing con molecule y testinfra**.
-+ Implementar **herramientas de análisis, seguridad y buenas prácticas** en pipelines.
++ **Hardening de sistemas linux**, tareas de administaciones y despliegue aplicaciones con roles ansible, **testing con molecule y testinfra**.
++ Implementar **herramientas de análisis, seguridad y buenas prácticas** en pipelines dentro del marco DevSecOps.
++ Tareas operacionales SQL, MySQL, PostgreSQL, etc.
++ Repositorio de código git y definición de estrategia de ramas.
++ CI/CD con Jenkins.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `docker` `k8s` `openshift` `terraform` `git` `aws` `helm` `k3s` `rancher` `jenkins` `jmeter` `linux` `vmware` `molecule` `linux` `aquasec` `trivy` `tfsec` `ScoutSuite` `checkov` `trufflesecurity` `anchore` `clair`
