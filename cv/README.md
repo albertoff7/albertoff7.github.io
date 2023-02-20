@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-<p align = "center"> <img src="foto_alberto_cv3.png"> </p>
+<p align = "center"> <img src="myMutant.JPG"> </p>
 
 Desde muy jóven **sentí fascinación por las tecnologías de internet** y comencé a estudiarlas, tanto de forma autodidacta como con formación en diferentes áreas. Hoy en 2020 soy un profesional TI con más de **10 años de experiencia laboral creando y administrando arquitecturas de aplicaciones críticas en entornos de producción**. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
 
@@ -9,7 +9,6 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 <p align="center"><br>
   <b>alberto@alberto.chat / (+34) 695644176</b> <br><br>
 <a href="mailto:alberto@alberto.chat"> <img src="https://img.shields.io/badge/Email-alberto@alberto.chat-34A1F2.svg" alt="Email"></a>
-<a href="https://github.com/albertoff7"> <img src="https://img.shields.io/badge/Github-albertoff7-34A1F2.svg" alt="GitHub"></a>
 <a href="https://api.whatsapp.com/send?phone=0034695644176"> <img src="https://img.shields.io/badge/Telefono-695644176-008000.svg" alt="Whatsapp"></a>
 <a href="https://goo.gl/maps/UsmizC3uWs2R8Xas6"> <img src="https://img.shields.io/badge/Localizaci%C3%B3n-Madrid-34A1F2.svg" alt="Madrid"></a>
 <a href="https://www.linkedin.com/in/alberto-fern%C3%A1ndez-fern%C3%A1ndez"> <img src="https://img.shields.io/badge/Linkedin-Alberto%20Fernandez-34A1F2.svg" alt="Linkedin"></a>
