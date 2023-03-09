@@ -37,7 +37,7 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 ## Experiencia Laboral
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Paradigma%20Digital-orange.svg"> <br>
-**Ingeniero de sistemas Linux y DevOps** <br>
+**DevOps / Ingeniero de sistemas Linux** <br>
 _(Octubre 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
