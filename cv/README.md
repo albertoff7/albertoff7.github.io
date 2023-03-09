@@ -2,14 +2,13 @@
 
 <p align = "center"> <img src="foto_alberto_cv3.png"> </p>
 
-Desde muy jóven **sentí fascinación por las tecnologías de internet** y comencé a estudiarlas, tanto de forma autodidacta como con formación en diferentes áreas. Hoy en 2020 soy un profesional TI con más de **10 años de experiencia laboral creando y administrando arquitecturas de aplicaciones críticas en entornos de producción**. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
+Desde muy jóven **sentí fascinación por las tecnologías de internet** y comencé a estudiarlas, tanto de forma autodidacta como con formación en diferentes áreas. Hoy soy un profesional TI con más de **10 años de experiencia laboral creando y administrando arquitecturas de aplicaciones críticas en entornos de producción**. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
 
 También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado. **Proactivo, responsable y con energía** para seguir expandiendo mis conocimientos y experiencia. Creando sinergias que permitan sumar valor allí por donde paso, **utilizando la tecnología como activo y palanca estratégica**.
 
 <p align="center"><br>
   <b>alberto@alberto.chat / (+34) 695644176</b> <br><br>
 <a href="mailto:alberto@alberto.chat"> <img src="https://img.shields.io/badge/Email-alberto@alberto.chat-34A1F2.svg" alt="Email"></a>
-<a href="https://github.com/albertoff7"> <img src="https://img.shields.io/badge/Github-albertoff7-34A1F2.svg" alt="GitHub"></a>
 <a href="https://api.whatsapp.com/send?phone=0034695644176"> <img src="https://img.shields.io/badge/Telefono-695644176-008000.svg" alt="Whatsapp"></a>
 <a href="https://goo.gl/maps/UsmizC3uWs2R8Xas6"> <img src="https://img.shields.io/badge/Localizaci%C3%B3n-Madrid-34A1F2.svg" alt="Madrid"></a>
 <a href="https://www.linkedin.com/in/alberto-fern%C3%A1ndez-fern%C3%A1ndez"> <img src="https://img.shields.io/badge/Linkedin-Alberto%20Fernandez-34A1F2.svg" alt="Linkedin"></a>
@@ -42,11 +41,13 @@ También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa 
 _(Octubre 2020 - Actualidad)_ <br>
 
 Actividades y responsabilidades:
-+ Participo como **integrador en el desarrollo de proyectos ágiles de automatización con tecnologías DevOps.**
 + Elaboro guías de estilo, cursos, laboratorios e **imparto formación en tecnologías DevOps** para clientes en transformación digital.
++ Provision de infraestructura, **automatización con Terraform y Ansible** sobre AWS.
++ Construcción de **contenedores y despliegue en K8s/openshift**.
++ **Hardening de sistemas linux**, tareas de administaciones y despliegue aplicaciones con **roles ansible**, testing con molecule.
 + Realizo entrevistas y **valoración técnica a futuros compañeros**, criba curricular.
-+ **Hardening** de sistemas y aplicaciones con roles ansible, **testing con molecule y testinfra**.
-+ Implementar **herramientas de análisis, seguridad y buenas prácticas** en pipelines.
++ Implemento **herramientas de análisis, seguridad y buenas prácticas** en pipelines dentro del marco DevSecOps.
++ Repositorio de código git.
 
 <img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `docker` `k8s` `openshift` `terraform` `git` `aws` `helm` `k3s` `rancher` `jenkins` `jmeter` `linux` `vmware` `molecule` `linux` `aquasec` `trivy` `tfsec` `ScoutSuite` `checkov` `trufflesecurity` `anchore` `clair`
