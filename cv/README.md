@@ -37,7 +37,7 @@ Soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nub
 ## Experiencia Laboral
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Web3-purple.svg"> <br>
-**DevSecOps Engineer** <br>
+**DevSecOps Linux Engineer Web3** <br>
 _(Diciembre 2022 - Actualidad)_ <br>
 
 Impulsando la automatización en web3.
@@ -50,7 +50,7 @@ Tecnologías: AWS docker k8s ansible terraform git helm k3s rancher jenkins jmet
 ---
 
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Paradigma%20Digital-orange.svg"> <br>
-**DevSecOps Engineer** <br>
+**DevSecOps Linux Engineer** <br>
 _(Octubre 2020 - Diciembre 2022)_ <br>
 
 Actividades y responsabilidades:
