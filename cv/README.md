@@ -42,9 +42,6 @@ _(Diciembre 2022 - Actualidad)_ <br>
 
 Impulsando la automatización en web3.
 
-Tecnologias: AWS docker k8s ansible terraform git helm k3s rancher jenkins jmeter linux molecule aquasec trivy tfsec ScoutSuite checkov trufflesecurity anchore clair
-
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `docker` `k8s` `openshift` `terraform` `git` `aws` `helm` `k3s` `rancher` `jenkins` `jmeter` `linux` `vmware` `molecule` `linux` `aquasec` `trivy` `tfsec` `ScoutSuite` `checkov` `trufflesecurity` `anchore` `clair`
 
 ---
@@ -64,7 +61,6 @@ Actividades y responsabilidades:
 + Repositorio de código git y **definición de estrategia de ramas**.
 + **CI/CD** con Jenkins.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `docker` `k8s` `openshift` `terraform` `git` `aws` `helm` `k3s` `rancher` `jenkins` `jmeter` `linux` `vmware` `molecule` `linux` `aquasec` `trivy` `tfsec` `ScoutSuite` `checkov` `trufflesecurity` `anchore` `clair`
 
 ---
@@ -84,7 +80,6 @@ Actividades y responsabilidades:
 + Sistema de versionado de software **Git.**
 + Automatización con **Rundeck, ansible, bash y python.**
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `aws` `kubernetes` `nginx` `git` `grafana` `ovirt`
 
 ---
@@ -112,7 +107,6 @@ Actividades y responsabilidades:
 
 + **Seguimiento e interlocución directa con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio. Supervisión funcional de aplicaciones.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `glassfish` `apache` `nodejs` `jboss` `shell script` `bash` `solaris` `suse` `debian` `aix` `svn` `cvs` `nagios` `systemctl` `monit` `smf` `db2` `mysql` `oracle` `j2ee` `vi` `docker` `JDK Mission Control` `memory analyzer` `SoapUI` `JMeter` `jvm` `...`
 
 ---
@@ -132,7 +126,6 @@ Actividades y responsabilidades:
 
 + **Seguimiento y mejora contínua de problemas**, reuniones diarias planificando mejoras para la prevención de problemas futuros.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM`
 
 ---
@@ -151,7 +144,6 @@ Actividades y responsabilidades:
 
 + **Operaciones enfocadas al diagnóstico y la operatividad de sistemas Unix y BBDD**.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
 `SunONE Web Server` `SunsONE Application Server` `jboss` `weblogic` `Websphere Application server` `shell script` `unix` `solaris` `aix` `HP-UX`
 
 ---
@@ -186,7 +178,6 @@ Bunker es un sistema CMS diseñado para la gestión interna de inventario y camb
 Actividades y responsabilidades en el proyecto Bunker:
   + **Diseño funcional, desarrollo de la aplicación, instalación y administración en producción** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql`. Instalación del `Gestor CMS`, extensiones y módulos. Interfaz de usuario basado en plantillas `JTemplate`. **Backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**. **Seguimiento, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"><br>
 `joomla` `mysql` `html` `UX` `metricas` `php` `shell script`
 
 ---
