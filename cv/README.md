@@ -36,9 +36,22 @@ Soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nub
 
 ## Experiencia Laboral
 
+<img align = "left" src = "https://img.shields.io/badge/Empresa-Web3-purple.svg"> <br>
+**DevSecOps Engineer** <br>
+_(Diciembre 2022 - Actualidad)_ <br>
+
+Impulsando la automatización en web3.
+
+Tecnologías: AWS docker k8s ansible terraform git helm k3s rancher jenkins jmeter linux molecule aquasec trivy tfsec ScoutSuite checkov trufflesecurity anchore clair
+
+<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
+`ansible` `docker` `k8s` `openshift` `terraform` `git` `aws` `helm` `k3s` `rancher` `jenkins` `jmeter` `linux` `vmware` `molecule` `linux` `aquasec` `trivy` `tfsec` `ScoutSuite` `checkov` `trufflesecurity` `anchore` `clair`
+
+---
+
 <img align = "left" src = "https://img.shields.io/badge/Empresa-Paradigma%20Digital-orange.svg"> <br>
 **DevSecOps Engineer** <br>
-_(Octubre 2020 - Actualidad)_ <br>
+_(Octubre 2020 - Diciembre 2022)_ <br>
 
 Actividades y responsabilidades:
 + Provision de infraestructura, **automatización con Terraform y Ansible** sobre AWS nube pública.
