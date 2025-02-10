@@ -45,7 +45,7 @@ Activities and responsibilities:
 + Building **docker containers and deployment in K8s and OpenShift with rancher, helm and k9s**.
 + Working with cloud providers mainly **AWS and GCP**.
 + **Linux system hardening**, SRE tasks, and application deployment using **Ansible roles**, testing with Molecule.
-+ Unit testing, functional testing, end-to-end testing, performance testing and more with **Jmeter, Selenium and more**.
++ Unit testing, functional testing, end-to-end testing, performance testing with **Jmeter, Selenium and more**.
 + Deploy CI/CD pipelines with **Jenkins, ArgoCD and more**.
 + Implement **analysis, security, and best practices tools** in CI/CD pipelines within the DevSecOps framework.
 + Conduct interviews and **technical assessment of future colleagues**, resume screening.
