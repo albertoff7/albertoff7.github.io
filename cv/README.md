@@ -12,9 +12,7 @@ I am also passionate about **DevOps culture**, **AWS cloud-native infrastructure
 <a href="https://api.whatsapp.com/send?phone=0034695644176"> <img src="https://img.shields.io/badge/Phone-695644176-008000.svg" alt="Whatsapp"></a>
 <a href="https://goo.gl/maps/UsmizC3uWs2R8Xas6"> <img src="https://img.shields.io/badge/Location-Madrid-34A1F2.svg" alt="Madrid"></a>
 <a href="https://www.linkedin.com/in/alberto-fern%C3%A1ndez-fern%C3%A1ndez"> <img src="https://img.shields.io/badge/Linkedin-Alberto%20Fernandez-34A1F2.svg" alt="Linkedin"></a>
-<br>
 <img src="https://img.shields.io/badge/Nationality-Spanish-FF0000.svg" alt="Spanish Nationality">
-<img src="https://img.shields.io/badge/Date%20of%20Birth-07/06/1991-34A1F2.svg" alt="Date of Birth 07/06/1991">
 </p>
 
 ---
