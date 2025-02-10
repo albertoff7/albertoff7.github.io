@@ -35,17 +35,20 @@ I am also passionate about **DevOps culture**, **AWS cloud-native infrastructure
 
 ## Work Experience
 
-<img align="left" src="https://img.shields.io/badge/Several%20Companies-contract%20and%20freelance-orange.svg"> <br>
+<img align="left" src="https://img.shields.io/badge/Several%20Companies-contract%20or%20freelance-orange.svg"> <br>
 **DevSecOps / SRE / Linux Systems Architect-Engineer** <br>
 _(October 2020 - Present)_ <br>
 
 Activities and responsibilities:
-+ Develop style guides, courses, and labs, and **provide training in DevOps technologies** for clients undergoing digital transformation.
-+ Infrastructure provisioning, **automation with Terraform and Ansible**.
-+ Building **containers and deployment in K8s and OpenShift**.
-+ **Linux system hardening**, administration tasks, and application deployment using **Ansible roles**, testing with Molecule.
-+ Conduct interviews and **technical assessment of future colleagues**, resume screening.
++ Develop style guides, courses, labs, and **provide training in DevOps technologies** for clients undergoing digital transformation.
++ Infrastructure as a code provisioning, **automation with Terraform and Ansible**.
++ Building **docker containers and deployment in K8s and OpenShift with rancher, helm and k9s**.
++ Working with cloud providers mainly **AWS and GCP**.
++ **Linux system hardening**, SRE tasks, and application deployment using **Ansible roles**, testing with Molecule.
++ Unit testing, functional testing, end-to-end testing, performance testing and more with **Jmeter, Selenium and more**.
++ Deploy CI/CD pipelines with **Jenkins, ArgoCD and more**.
 + Implement **analysis, security, and best practices tools** in CI/CD pipelines within the DevSecOps framework.
++ Conduct interviews and **technical assessment of future colleagues**, resume screening.
 + Git code repository management.
 
 <img align="left" src="https://img.shields.io/badge/%20-Technologies%20used%20in%20the%20project-lightgrey.svg"> <br>
