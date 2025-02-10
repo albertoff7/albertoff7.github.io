@@ -35,17 +35,17 @@ I am also passionate about **DevOps culture**, **AWS cloud-native infrastructure
 
 ## Work Experience
 
-<img align="left" src="https://img.shields.io/badge/Company-Paradigma%20Digital-orange.svg"> <br>
-**DevOps / Linux Systems Engineer** <br>
+<img align="left" src="https://img.shields.io/badge/Several%20Companies-contract%20and%freelance-orange.svg"> <br>
+**DevSecOps / SRE / Linux Systems Architect-Engineer** <br>
 _(October 2020 - Present)_ <br>
 
 Activities and responsibilities:
 + Develop style guides, courses, and labs, and **provide training in DevOps technologies** for clients undergoing digital transformation.
-+ Infrastructure provisioning, **automation with Terraform and Ansible** on AWS.
-+ Building **containers and deployment in K8s/OpenShift**.
++ Infrastructure provisioning, **automation with Terraform and Ansible**.
++ Building **containers and deployment in K8s and OpenShift**.
 + **Linux system hardening**, administration tasks, and application deployment using **Ansible roles**, testing with Molecule.
 + Conduct interviews and **technical assessment of future colleagues**, resume screening.
-+ Implement **analysis, security, and best practices tools** in pipelines within the DevSecOps framework.
++ Implement **analysis, security, and best practices tools** in CI/CD pipelines within the DevSecOps framework.
 + Git code repository management.
 
 <img align="left" src="https://img.shields.io/badge/%20-Technologies%20used%20in%20the%20project-lightgrey.svg"> <br>
