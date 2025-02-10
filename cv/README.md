@@ -1,305 +1,304 @@
 # Curriculum Vitae
 
-<p align = "center"> <img src="foto_alberto_cv3.png"> </p>
+<p align="center"> <img src="foto_alberto_cv3.png"> </p>
 
-Desde muy jóven **sentí fascinación por las tecnologías de internet** y comencé a estudiarlas, tanto de forma autodidacta como con formación en diferentes áreas. Hoy soy un profesional TI con más de **10 años de experiencia laboral creando y administrando arquitecturas de aplicaciones críticas en entornos de producción**. Durante mi carrera profesional he desempeñado diferentes roles, principalmente tareas técnicas y de gestión con otros equipos.
+From a young age, I **felt a fascination for internet technologies** and began studying them, both self-taught and through formal training in various fields. Today, I am an IT professional with over **10 years of experience creating and managing critical application architectures in production environments**. Throughout my career, I have taken on various roles, primarily in technical tasks and team management.
 
-También soy un apasionado de la cultura `DevOps`, de la infraestructura nativa de la nube `AWS`, la `automatización`, la `monitorización` en tiempo real, la formación en nuevas tecnologías y todo lo relacionado. **Proactivo, responsable y con energía** para seguir expandiendo mis conocimientos y experiencia. Creando sinergias que permitan sumar valor allí por donde paso, **utilizando la tecnología como activo y palanca estratégica**.
+I am also passionate about **DevOps culture**, **AWS cloud-native infrastructure**, **automation**, **real-time monitoring**, and training in new technologies. **Proactive, responsible, and energetic**, I aim to continue expanding my knowledge and experience, creating synergies that add value wherever I go, **using technology as a strategic asset and lever**.
 
 <p align="center"><br>
   <b>alberto@alberto.chat / (+34) 695644176</b> <br><br>
 <a href="mailto:alberto@alberto.chat"> <img src="https://img.shields.io/badge/Email-alberto@alberto.chat-34A1F2.svg" alt="Email"></a>
-<a href="https://api.whatsapp.com/send?phone=0034695644176"> <img src="https://img.shields.io/badge/Telefono-695644176-008000.svg" alt="Whatsapp"></a>
-<a href="https://goo.gl/maps/UsmizC3uWs2R8Xas6"> <img src="https://img.shields.io/badge/Localizaci%C3%B3n-Madrid-34A1F2.svg" alt="Madrid"></a>
+<a href="https://api.whatsapp.com/send?phone=0034695644176"> <img src="https://img.shields.io/badge/Phone-695644176-008000.svg" alt="Whatsapp"></a>
+<a href="https://goo.gl/maps/UsmizC3uWs2R8Xas6"> <img src="https://img.shields.io/badge/Location-Madrid-34A1F2.svg" alt="Madrid"></a>
 <a href="https://www.linkedin.com/in/alberto-fern%C3%A1ndez-fern%C3%A1ndez"> <img src="https://img.shields.io/badge/Linkedin-Alberto%20Fernandez-34A1F2.svg" alt="Linkedin"></a>
 <br>
-<img src="https://img.shields.io/badge/Nacionalidad-Epañola-FF0000.svg" alt="Nacionalidad Española">
-<img src="https://img.shields.io/badge/Fecha%20de%20Nacimiento-07/06/1991-34A1F2.svg" alt="Fecha de Nacimiento 07/06/1991">
+<img src="https://img.shields.io/badge/Nationality-Spanish-FF0000.svg" alt="Spanish Nationality">
+<img src="https://img.shields.io/badge/Date%20of%20Birth-07/06/1991-34A1F2.svg" alt="Date of Birth 07/06/1991">
 </p>
 
 ---
 
-## Certificaciones
+## Certifications
 
-<img align = "left" src = "https://img.shields.io/badge/Tecnología-Red%20Hat-red.svg"> <br>
-**Licencia Red Hat 190-036-095**
+<img align="left" src="https://img.shields.io/badge/Technology-Red%20Hat-red.svg"> <br>
+**Red Hat License 190-036-095**
 - **Red Hat Certificate Architect (RHCA):**
   - Red Hat Certified Engineer (RHCE)
   - Red Hat Certified Specialist in Ansible Automation
   - Red Hat Certified Specialist in OpenShift Administration
-  - Red Hat Certificate Specialist in Containers and Kubernetes
+  - Red Hat Certified Specialist in Containers and Kubernetes
   - Red Hat Certified Advanced Automation: Ansible Best Practices
   - Red Hat Certified System Administrator (RHCSA)
   - Red Hat Certified Specialist in Enterprise Application Server (RHJCA)
-  
 ---
 
-## Experiencia Laboral
+## Work Experience
 
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Paradigma%20Digital-orange.svg"> <br>
-**DevOps / Ingeniero de sistemas Linux** <br>
-_(Octubre 2020 - Actualidad)_ <br>
+<img align="left" src="https://img.shields.io/badge/Company-Paradigma%20Digital-orange.svg"> <br>
+**DevOps / Linux Systems Engineer** <br>
+_(October 2020 - Present)_ <br>
 
-Actividades y responsabilidades:
-+ Elaboro guías de estilo, cursos, laboratorios e **imparto formación en tecnologías DevOps** para clientes en transformación digital.
-+ Provision de infraestructura, **automatización con Terraform y Ansible** sobre AWS.
-+ Construcción de **contenedores y despliegue en K8s/openshift**.
-+ **Hardening de sistemas linux**, tareas de administaciones y despliegue aplicaciones con **roles ansible**, testing con molecule.
-+ Realizo entrevistas y **valoración técnica a futuros compañeros**, criba curricular.
-+ Implemento **herramientas de análisis, seguridad y buenas prácticas** en pipelines dentro del marco DevSecOps.
-+ Repositorio de código git.
+Activities and responsibilities:
++ Develop style guides, courses, and labs, and **provide training in DevOps technologies** for clients undergoing digital transformation.
++ Infrastructure provisioning, **automation with Terraform and Ansible** on AWS.
++ Building **containers and deployment in K8s/OpenShift**.
++ **Linux system hardening**, administration tasks, and application deployment using **Ansible roles**, testing with Molecule.
++ Conduct interviews and **technical assessment of future colleagues**, resume screening.
++ Implement **analysis, security, and best practices tools** in pipelines within the DevSecOps framework.
++ Git code repository management.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
+<img align="left" src="https://img.shields.io/badge/%20-Technologies%20used%20in%20the%20project-lightgrey.svg"> <br>
 `ansible` `docker` `k8s` `openshift` `terraform` `git` `aws` `helm` `k3s` `rancher` `jenkins` `jmeter` `linux` `vmware` `molecule` `linux` `aquasec` `trivy` `tfsec` `ScoutSuite` `checkov` `trufflesecurity` `anchore` `clair`
 
 ---
 
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Qindel%20Group-orange.svg"> <br>
-**Consultor de sistemas Linux, tecnologías DevOps e Ingeniero de sistemas RHEL** <br>
-_(Febrero 2020 - Octubre 2020)_ <br>
+<img align="left" src="https://img.shields.io/badge/Company-Qindel%20Group-orange.svg"> <br>
+**Linux Systems Consultant, DevOps Technologies, and RHEL Systems Engineer** <br>
+_(February 2020 - October 2020)_ <br>
 
-Actividades y responsabilidades:
-+ **Integrador de sistemas** `RHEL 7 y 8` y tecnologías del ecosistema DevOps `Ansible, Docker, Kubernetes y Openshift`. 
+Activities and responsibilities:
++ **Systems integrator** for `RHEL 7 and 8` and DevOps ecosystem technologies `Ansible, Docker, Kubernetes, and OpenShift`. 
 + **Red Hat Learning Subscription Path**
-  + Certificado **RHCSA, RHCE, RH Ansible Specialist, RHCJA.**
-  + **Generar documentación** sobre los productos Red Hat.
-+ Gestión de infraestructuras con **Ansible y Terraform.**
-+ **Creación de entornos cloud con AWS.** EC2, VPC, Route53, RDS, IAM, etc.
-+ **Migración de infraestructura** interna a Ovirt HA.
-+ Sistema de versionado de software **Git.**
-+ Automatización con **Rundeck, ansible, bash y python.**
+  + Certified **RHCSA, RHCE, RH Ansible Specialist, RHCJA.**
+  + **Generate documentation** on Red Hat products.
++ Infrastructure management with **Ansible and Terraform.**
++ **Creation of cloud environments with AWS**, including EC2, VPC, Route53, RDS, IAM, etc.
++ **Infrastructure migration** to internal Ovirt HA.
++ Software versioning system **Git.**
++ Automation with **Rundeck, Ansible, Bash, and Python.**
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
+<img align="left" src="https://img.shields.io/badge/%20-Technologies%20used%20in%20the%20project-lightgrey.svg"> <br>
 `ansible` `rhel` `centos` `openshift` `docker` `aws` `kubernetes` `nginx` `git` `grafana` `ovirt`
 
 ---
+---
 
-<img src = "https://img.shields.io/badge/Empresa-TIREA-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Fluentia-orange.svg"> <br>
-**Arquitecto y administrador de aplicaciones Middleware Senior** _en entornos Unix_<br>
-_(Enero 2016 - Febrero 2020)_ <br>
+<img src="https://img.shields.io/badge/Company-TIREA-blue.svg"> <img src="https://img.shields.io/badge/Company-Fluentia-orange.svg"> <br>
+**Senior Middleware Architect and Administrator** _in Unix environments_ <br>
+_(January 2016 - February 2020)_ <br>
 
-Actividades y responsabilidades:
-+ **Formación, coordinación y seguimiento a técnicos** que se incorporan al equipo, delegando y supervisando tareas para su crecimiento en el proyecto.
+Activities and responsibilities:
++ **Training, coordinating, and mentoring new team members**, delegating and supervising tasks to foster their growth in the project.
++ **DevOps technology integration**, including `Docker`, `Ansible`, `Grafana`, and `AWS`, in pre-production for future projects.
++ **Comprehensive application management in UNIX environments**, both front-end (`apache` web servers) and back-end (`glassfish`, `jboss`, `nodejs` application servers) on UNIX systems: `Solaris`, `AIX`, `Linux` with `DB2`, `mysql`, and `oracle` databases.  
+  + **Provisioning, design/prototyping, and creating application architectures** from pre-production to production environments.
+  + **Troubleshooting N2 and N3, version upgrades, operations, analysis, process automation, and audits.** Ensure 24x7x365 critical application availability with `zero downtime`.
+  + **Functional testing and performance testing.** Propose improvements to development teams and define tests for QA teams.
+  + **Creation of technical documentation and reports.**
+  + **Develop monitoring alerts (`bash`, `email`, and management systems `Nagios`/`check_MK`).** Proactive analysis and planning to anticipate and eliminate incidents.
+  + **Define SLAs, backup policies, configuration, and log standardization.**
+  + **Code management** with `cvs` and `svn`.
+  + **Weekend on-call duties** to resolve critical incidents in production environments.
 
-+ **Integrador de tecnologías DevOps.** `Docker`, `Ansible`, `Grafana` y `AWS`, en fase pre-producción para proyectos futuros.
++ **Advanced shell scripting automation and programming**: Creating automation/daemon scripts for administration, monitoring, analysis, and batch integration with process control systems like `monit`/`systemctl` in `Linux` and `SMF` in `Solaris`. Promote continuous improvement in critical processes.
 
-+ **Gestión integral de aplicaciones en entornos UNIX**, front (servidores web: `apache`) y back-end (servidores de aplicaciones: `glassfish`, `jboss`, `nodejs`) en entornos UNIX, S.O: `Solaris`, `AIX`, `Linux` con BBDD `DB2`, `mysql` y `oracle`. 
-  + **Provisión, diseño/prototipado y creación de arquitecturas de aplicaciones** desde entornos pre-explotación hasta produción.
-  + **Troubleshooting N2 y N3, subida de versiones, operación, análisis, automatización de procesos y auditoría.** Garantizar la operatividad y disponibilidad de todos los entornos con aplicaciones críticas, que trabajan 24x7x365 con `zero downtime`. 
-  + **Testing funcional y pruebas de rendimiento.** Elaborar propuestas de mejora para el equipo de desarrollo y definir las pruebas para los equipos de testing.
-  + **Creación de documentación técnica e informes.**
-  + **Creación de alertas de monitorización (`bash`, `email` y sistemas gestores `Nagios`/`check_MK`).** Análisis y planificación proactivo eliminando incidencias de forma anticipada.
-  + **Definición de SLA's, políticas backup, estandarización de configuraciones y logs**.
-  + **Gestión de código** con `cvs` y `svn`.
-  + **Guardias de fin de semana** para la resolución de incidencias críticas en entornos de producción.
-  
-+ **Automatización y programación avanzada en shell script**: Creación de automatismos/demonios que ejecutan tareas de administración, consulta, monitorización, análisis e integración batch con sistemas de control de procesos, `monit`/`systemctl` en `Linux` y `SMF` en `Solaris` entre otros. Impulsar la mejora contínua de procesos críticos.
++ **Direct communication and coordination with technical teams**, including systems, storage, communications, development, databases, QA, architecture, technology, and business. Functional supervision of applications.
 
-+ **Seguimiento e interlocución directa con equipos técnicos** de sistemas, almacenamiento, comunicaciones, desarrollo, bases de datos, QA, arquitectura, tecnología y negocio. Supervisión funcional de aplicaciones.
-
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
+<img align="left" src="https://img.shields.io/badge/%20-Technologies%20used%20during%20the%20project-lightgrey.svg"> <br>
 `glassfish` `apache` `nodejs` `jboss` `shell script` `bash` `solaris` `suse` `debian` `aix` `svn` `cvs` `nagios` `systemctl` `monit` `smf` `db2` `mysql` `oracle` `j2ee` `vi` `docker` `JDK Mission Control` `memory analyzer` `SoapUI` `JMeter` `jvm` `...`
 
 ---
 
-<img src = "https://img.shields.io/badge/Cliente-IBM-black.svg"> <img src = "https://img.shields.io/badge/Cliente-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"><br>
-**Administrador Middleware Senior** _en entorno Unix_ <br>
-_(Noviembre 2012 - Enero 2016)_ <br>
+<img src="https://img.shields.io/badge/Client-IBM-black.svg"> <img src="https://img.shields.io/badge/Client-Telefónica-blue.svg"> <img src="https://img.shields.io/badge/Company-Tuyú%20Technology-brightgreen.svg"> <br>
+**Senior Middleware Administrator** _in Unix environment_ <br>
+_(November 2012 - January 2016)_ <br>
 
-Actividades y responsabilidades:
-+ **Administración de servidores y aplicaciones** de una gran variedad de tecnologías, bajo sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`. Desempeño de tareas relativas a mantener la operatividad de los aplicativos y la de sus interfaces.
-  + **Seguimiento técnico en el despliegue de nuevas versiones de sistemas en producción** así como en sus correspondientes entornos de pre-producción. Soporte y resolución de problemas. Planificación y gestión de cambios, creando un flujo de trabajo para delegar tareas en otros equipos.
-  + **Planificación del sistema de monitorización**, estableciendo puntos de control de referencia en las aplicaciones.
-  + **Soporte en el escalado de incidencias críticas** y supervisión de procedimientos para otros grupos técnicos.
-  + **Guardias**: Móvil de guardia y soporte fuera de horario para incidencias de sistemas críticos escaladas en severidad.
-  
-+ **Programación avanzada shell script**: Desarrollo de aplicaciones en `shell script` para la administración, optimización, automatización y monitorización de sistemas. `funciones bash` `awk` `sed`.
+Activities and responsibilities:
++ **Administration of servers and applications** for a variety of technologies on operating systems `AIX`, `Solaris`, `HP-UX`, and `Linux`. Ensure operational functionality of applications and their interfaces.  
+  + **Technical monitoring of new system version deployments in production** and corresponding pre-production environments. Support and problem resolution, planning and change management, creating a workflow to delegate tasks to other teams.
+  + **Monitoring system planning**, defining reference control points in applications.
+  + **Support for critical incident escalation** and supervision of procedures for other technical teams.
+  + **On-call duties**: On-call support and mobile phone for critical system incidents escalated with high severity.
 
-+ **Seguimiento y mejora contínua de problemas**, reuniones diarias planificando mejoras para la prevención de problemas futuros.
++ **Advanced shell scripting programming**: Develop applications in `shell script` for system administration, optimization, automation, and monitoring. `bash functions`, `awk`, `sed`.
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
++ **Continuous problem improvement and follow-up**, participating in daily meetings to plan improvements for preventing future problems.
+
+<img align="left" src="https://img.shields.io/badge/%20-Technologies%20used%20during%20the%20project-lightgrey.svg"> <br>
 `Tomcat` `Apache` `JBoss` `SunONE Web Server` `SunsONE Application Server` `Report Server Ldap` `Weblogic` `Websphere Application server` `Iplanet` `ISS` `j2ee` `JRun` `MQ Broker` `Spazio` `CICS` `SNA` `Citrix` `AIX` `Solaris` `Linux` `HP-UX` `shell script` `OVO` `pandora` `nagios` `Remedy` `ITSM`
 
 ---
-<img src = "https://img.shields.io/badge/Cliente-IBM-black.svg"> <img src = "https://img.shields.io/badge/Cliente-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-AirOn%20Group-blue.svg"><br>
-**Administrador Middleware Junior y administrador de sistemas** _en entorno Unix_ <br>
-_(Febrero 2011 - Noviembre 2012)_ <br>
+---
 
-Actividades y responsabilidades:
-+ **Administración de servidores y aplicaciones** en sistemas operativos `AIX`, `Solaris`, `HP-UX` y `Linux`.
-  + **Despliegue de nuevas versiones en sistemas en producción** y pre-producción.
-  + **Monitorización de sistemas y creación de alarmas**, sistemas gestores de tickets (`OVO`, `Nagios`, `Pandora`, `Remedy`).
-  + **Documentacion de problemas** y creación de manuales. Realización de informes técnicos para cliente.
-  + **Resolución y seguimiento de incidencias con escalado a grupos técnicos especialistas.**
-  
-+ **Programación shell script.** Automatizaciones simples en `shell script` para la administración y monitorización de aplicaciones/sistemas.
+<img src="https://img.shields.io/badge/Client-IBM-black.svg"> <img src="https://img.shields.io/badge/Client-Telefónica-blue.svg"> <img src="https://img.shields.io/badge/Company-AirOn%20Group-blue.svg"><br>
+**Junior Middleware Administrator and Systems Administrator** _in Unix environment_ <br>
+_(February 2011 - November 2012)_ <br>
 
-+ **Operaciones enfocadas al diagnóstico y la operatividad de sistemas Unix y BBDD**.
+Activities and responsibilities:
++ **Server and application administration** on operating systems `AIX`, `Solaris`, `HP-UX`, and `Linux`.
+  + **Deployment of new versions in production** and pre-production systems.
+  + **System monitoring and alarm creation**, using ticket management systems (`OVO`, `Nagios`, `Pandora`, `Remedy`).
+  + **Documentation of problems** and creation of manuals. Preparation of technical reports for clients.
+  + **Incident resolution and follow-up with escalation to specialized technical groups.**
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"> <br>
++ **Shell script programming.** Simple automation tasks in `shell script` for system and application administration and monitoring.
+
++ **Operations focused on diagnostics and system operability in Unix and databases**.
+
+<img align="left" src="https://img.shields.io/badge/%20-Technologies%20used%20during%20the%20project-lightgrey.svg"> <br>
 `SunONE Web Server` `SunsONE Application Server` `jboss` `weblogic` `Websphere Application server` `shell script` `unix` `solaris` `aix` `HP-UX`
 
 ---
 
-<img align = "left" src = "https://img.shields.io/badge/Asociación-Scouts%20de%20Madrid-blue.svg"> <br>
-**Responsable y coordinador de rama** _en grupo de Scouts de Madrid_ <br>
-_(Enero 2010 - Enero 2015)_ <br>
+<img align="left" src="https://img.shields.io/badge/Association-Scouts%20de%20Madrid-blue.svg"> <br>
+**Branch Leader and Coordinator** _at Scouts de Madrid group_ <br>
+_(January 2010 - January 2015)_ <br>
 
-Actividades y responsabilidades:
-+ **Coordinador de Rama** en grupo scout perteneciente a Scouts de Madrid, asociación dedicada a la educación no formal.
-+ **Programación de actividades** para campamentos, salidas y fines de semana.
-+ **Gestión y formación del equipo** de Monitores titulados.
-
----
-
-<img align = "left" src = "https://img.shields.io/badge/Empresa-Webmaster%20Freelance-blue.svg"> <br>
-**Webmaster** _y consultoría para PYMES_ <br>
-_(2007 - Actualidad)_ <br>
-
-+ **Webmaster** de diferentes proyectos de índole personal y consultor de nuevas tecnologías para pymes.
+Activities and responsibilities:
++ **Branch Coordinator** at a scout group affiliated with Scouts de Madrid, an organization focused on non-formal education.
++ **Activity planning** for camps, excursions, and weekend events.
++ **Team management and training** for certified instructors.
 
 ---
 
-## Proyectos propios
+<img align="left" src="https://img.shields.io/badge/Company-Webmaster%20Freelance-blue.svg"> <br>
+**Webmaster** _and SME consultancy_ <br>
+_(2007 - Present)_ <br>
 
-<img src = "https://img.shields.io/badge/Cliente-IBM-black.svg"> <img src = "https://img.shields.io/badge/Cliente-Telefónica-blue.svg"> <img src = "https://img.shields.io/badge/Empresa-Tuyú%20Technology-brightgreen.svg"><br>
-**Responsable técnico del aplicativo BUNKER** _en proyecto Imanaged Services_ <br>
-_(Agosto 2012 - Enero 2016)_ <br>
++ **Webmaster** for various personal projects and consultant on new technologies for SMEs.
 
-Bunker es un sistema CMS diseñado para la gestión interna de inventario y cambios en el proyecto IBM Imanaged Services. Gestioné integramente todas las fases del proyecto.
+---
+## Personal Projects
 
-Actividades y responsabilidades en el proyecto Bunker:
-  + **Diseño funcional, desarrollo de la aplicación, instalación y administración en producción** en sistema operativo `linux`, servidor web `apache`, servidor BBDD `mysql`. Instalación del `Gestor CMS`, extensiones y módulos. Interfaz de usuario basado en plantillas `JTemplate`. **Backup** con `Akeeba recovery`, **securización de la plataforma** con `JSecurity`, **analítica y métricas**. **Seguimiento, definición y creación de nuevas funcionalidades** en relación a las necesidades del proyecto.
+<img src="https://img.shields.io/badge/Client-IBM-black.svg"> <img src="https://img.shields.io/badge/Client-Telefónica-blue.svg"> <img src="https://img.shields.io/badge/Company-Tuyú%20Technology-brightgreen.svg"><br>
+**Technical Lead for the BUNKER Application** _in the Imanaged Services project_ <br>
+_(August 2012 - January 2016)_ <br>
 
-<img align = "left" src = "https://img.shields.io/badge/%20-Tecnologías%20usadas%20durante%20el%20proyecto-lightgrey.svg"><br>
-`joomla` `mysql` `html` `UX` `metricas` `php` `shell script`
+Bunker is a CMS system designed for internal inventory and change management in the IBM Imanaged Services project. I managed all phases of the project independently.
+
+Activities and responsibilities in the Bunker project:
+  + **Functional design, application development, installation, and production management** on `linux`, with a `mysql` database and `apache` web server. Installed the `CMS Manager`, extensions, and modules. User interface based on `JTemplate` templates. **Backup** using `Akeeba recovery`, **platform security** with `JSecurity`, **analytics and metrics**, and **monitoring and creating new functionalities** based on project needs.
+
+<img align="left" src="https://img.shields.io/badge/%20-Technologies%20used%20during%20the%20project-lightgrey.svg"><br>
+`joomla` `mysql` `html` `UX` `metrics` `php` `shell script`
 
 ---
 
-## Educación y formación.
+## Education and Training
 
-<img align = "left" src = "https://img.shields.io/badge/Centro%20de%20Formación-Institución%20La%20Salle-9E3A00.svg"> <br>
-**Institución La salle** _2009-2011_ <br>
-Ciclo formativo de Grado Superior en Administración de Sistemas informáticos (ASI).
+<img align="left" src="https://img.shields.io/badge/Training%20Center-Institución%20La%20Salle-9E3A00.svg"> <br>
+**Institución La Salle** _2009-2011_ <br>
+Advanced Vocational Training in Systems Administration (ASI).
 
-<img align = "left" src = "https://img.shields.io/badge/Universidad-UOC-9E3A00.svg"> <br>
-**Universidad Oberta de Catalunya** _2018_ <br> \*_No finalizado_\*
-Grado Diseño y Creación Digital en régimen semi-presencial.
+<img align="left" src="https://img.shields.io/badge/University-UOC-9E3A00.svg"> <br>
+**Universitat Oberta de Catalunya** _2018_ <br> \*_Not completed_\*
+Degree in Digital Design and Creation (part-time).
 
-<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
-**Universidad Carlos III Madrid** _2012_ <br> \*_No finalizado_\*
-Grado Información y Documentación en la Universidad Carlos III Madrid en régimen semi-presencial.
+<img align="left" src="https://img.shields.io/badge/University-UC3M-9E3A00.svg"> <br>
+**Universidad Carlos III Madrid** _2012_ <br> \*_Not completed_\*
+Degree in Information and Documentation (part-time).
 
-<img align = "left" src = "https://img.shields.io/badge/Universidad-UC3M-9E3A00.svg"> <br>
-**Formador en las ponencias del GUL** _Febrero 2014_ <br>
-Formador para el programa whatshApache (desarrollo propio) en las jornadas del GUL 2014.
+<img align="left" src="https://img.shields.io/badge/University-UC3M-9E3A00.svg"> <br>
+**Trainer at GUL Lectures** _February 2014_ <br>
+Trainer for the WhatshApache program (self-developed) at GUL 2014 workshops.
 
-<img align = "left" src = "https://img.shields.io/badge/Colegio-Escuelas%20Pias%20Carabanchel-9E3A00.svg"> <br>
+<img align="left" src="https://img.shields.io/badge/School-Escuelas%20Pias%20Carabanchel-9E3A00.svg"> <br>
 **Ntra. Señora de las Escuelas Pías** _2007-2009_ <br>
-Bachillerato y Selectividad. 
+High School and University Entrance Examination.
 
 ---
+## Additional Training
 
-## Formación complementaria
+<img src="https://img.shields.io/badge/%20-Red%20Hat%20Partner%20Platform-black.svg"> <br>
+_February 2020 - July 2020_ <br>
+Certification: RHCSA - Red Hat Certified System Administrator <br>
+Certification: RHCE - Red Hat Certified Engineer <br>
+Certification: Red Hat Certified Specialist in Ansible Automation <br>
+**Certification License: 190-036-095** <br>
+RH124 Red Hat System Administration I, RH134 Red Hat System Administration II, RH199 RHCSA Rapid Track, RH294 RHCE automation with Ansible, DO180 Introduction to containers, Docker, and Kubernetes, DO280 Openshift Administration I, DO380 Openshift Administration II, Red Hat Sales Engineer Automation Specialist (Ansible) <br>
 
-<img src = "https://img.shields.io/badge/%20-Red%20Hat%20Partner%20Platform-black.svg"> <br>
-_Febrero 2020 - Julio 2020_ <br>
-Certificado: RHCSA - Red Hat Certified System Administrator <br>
-Certificado: RHCE - Red Hat Certified Engineer <br>
-Certificado: Red Hat Certified Specialist in Ansible Automation <br>
-**Licencia de certificación: 190-036-095** <br>
-RH124 Red Hat System Administration I, RH134 Red Hat System Administration II, RH199 RHCSA Rapid Track, RH294 RHCE automatización con Ansible, DO180 Introducción a contenedores, docker y Kubernetes, DO280 Administración Openshift I, DO380 Administración Openshift II, Red Hat Sales Engineer Automation Specialist (ansible) <br>
+<img src="https://img.shields.io/badge/%20-TIC%20Getafe%20Center-black.svg"><br>
+_November 2018 - January 2019_ <br>
+Certification: JBOSS Administrator in Enterprise Application Server (340h) <br>
+**Certification License: 190-036-095** <br>
+JB248 JBoss Application Administration I (70h), JB348 JBoss Application Administration II (60h), JB001 Java for JBoss (70h), DO280 OpenShift Enterprise Administration (80h), DO290 Red Hat OpenShift Container Platform Development (60h) <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg"><br>
-_Noviembre 2018- Enero 2019_ <br>
-Certificado: JBOSS Administrator in Enterprise Application Server (340h) <br>
-**Licencia de certificación: 190-036-095**<br>
-JB248 JBoss Application Administration I. (70h), JB348 JBoss Application Administration II. (60h), JB001 Java para JBoss (70h), DO280 OpenShift Enterprise Administration (80h), DO290 Red Hat OpenShift Container Platform Development (60h)<br>
+<img src="https://img.shields.io/badge/%20-Tuenti%20Madrid%20Office-black.svg"><br>
+_March 2017_<br>
+Docker 4th Birthday Labs <br>
+Docker Labs at the 4th birthday of the official Docker community in Spain. <br>
 
-<img src = "https://img.shields.io/badge/%20-Tuenti%20Madrid%20Office-black.svg"><br>
-_Marzo 2017_<br>
-Docker 4º Birthday labs <br>
-Laboratorios Docker en el cuarto cumpleaños de la comunidad oficial España.<br>
+<img src="https://img.shields.io/badge/%20-Polytechnic%20University%20of%20Valencia-black.svg"><br>
+_November 2016 - January 2017_<br>
+Cloud Computing with Amazon Web Services (AWS) (50h) <br>
+AWS with EC2, S3, Route 53, VPC, RDS, CloudWatch <br>
 
-<img src = "https://img.shields.io/badge/%20-Universidad%20Politécnica%20de%20Valencia-black.svg"><br>
-_Noviembre 2016 - Enero 2017_<br>
-Cloud Computing con Amazon Web Services (AWS) (50h).<br>
-AWS con EC2, S3, Route 53, VPC, RDS, CloudWatch.<br>
+<img src="https://img.shields.io/badge/%20-Google%20Trainning%20Campus%20Madrid-black.svg"><br>
+_September 2016_<br>
+Google Entrepreneur official training (24h) <br>
+Entrepreneurship initiative and teamwork methodology for tech-based projects. <br>
 
-<img src = "https://img.shields.io/badge/%20-Google%20Trainning%20Campus%20Madrid-black.svg"><br>
-_Septiempre 2016_<br>
-Google Entrepreneur official training (24h)<br>
-Iniciativa emprendedora y metodología de trabajo en equipo para proyectos de base tecnológica.<br>
+<img src="https://img.shields.io/badge/%20-IBM%20Training%20Center-black.svg"><br>
+_November - December 2015_<br>
+Advanced Programming II in Shell Script (100h) <br>
+Advanced programming with bash, awk, sed, and Perl fundamentals. <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
-_Noviembre - Diciembre 2015_<br>
-Programación Avanzada II en Shell Script  (100h)<br>
-Programación Avanzada con bash, awk, sed y fundamentos PERL.<br>
+<img src="https://img.shields.io/badge/%20-CEIM%20Training%20Center-black.svg"><br>
+_May 2014_<br>
+Managerial Skills: Decision-Making (25h) <br>
+Decision-making, influencing and motivating teams, time management. <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20CEIM-black.svg"><br>
-_Mayo 2014_<br>
-Habilidades directivas: Toma de decisiones (25h)<br>
-Toma de decisiones, Influir y motivar al equipo, gestión del tiempo.<br>
+<img src="https://img.shields.io/badge/%20-CasTraining%20Center-black.svg"><br>
+_April 2014_<br>
+ITIL V3 Fundamentals (20h) <br>
+ITIL Foundation: Information Technologies Infrastructure Library fundamentals. <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20CasTraining-black.svg"><br>
-_Abril 2014_<br>
-Fundamentos ITIL V3 (20 horas)<br>
-ITIL Fundation: Fundamentos ITIL. Information Technologies Infraestructure Library.<br>
+<img src="https://img.shields.io/badge/%20-IBM%20Training%20Center-black.svg"><br>
+_January – April 2014_<br>
+AIX 7.1 Systems Administration (240h) <br>
+AIX Essentials, Advanced Administration I and II, Network Administration Operating System <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
-_Enero – Abril 2014_<br>
-Administración Sistemas AIX 7.1 (240horas)<br>
-AIX Essentials, administración AIX Avanzada I y II, Network Administration Operating System<br>
+<img src="https://img.shields.io/badge/%20-CEIM%20Plan%20Training-black.svg"><br>
+_April – May 2013_<br>
+Google SEO and SEM Positioning Techniques (76h) <br>
+Search Engine Optimization, Social Media Management, CMS optimization. <br>
 
-<img src = "https://img.shields.io/badge/%20-Formación%20Plan%20CEIM-black.svg"><br>
-_Abril – Mayo 2013_<br>
-Técnicas Posicionamiento SEO y SEM en Google. (76 horas)<br>
-Posicionamiento en Buscadores, gestión Redes Sociales, optimización orientada a gestores de contenido CMS.<br>
+<img src="https://img.shields.io/badge/%20-IBM%20Training%20Center-black.svg"><br>
+_October 2012_<br>
+Advanced Programming in Shell Script (40h) <br>
+Control flow, traps, regular expressions, AWK, SED, functions, commands, Shell. <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20de%20Formación%20IBM-black.svg"><br>
-_Octubre 2012_<br>
-Programación Avanzada en Shell Script. (40 horas)<br>
-Control de flujo, Traps, expresiones regulares, AWK, SED, funciones, mandatos, Shell.<br>
+<img src="https://img.shields.io/badge/%20-TIC%20Getafe%20Center-black.svg"><br>
+_January – May 2012_<br>
+Solaris 10 Systems Administration (300h) <br>
+Solaris 10 OS Essentials, Solaris Administration I and II, Network Administration, Security. <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg"><br>
-_Enero – Mayo 2012_<br>
-Administración Sistemas Operativos Solaris 10. (300 horas)<br>
-Solaris 10 Operating System Essentials, Administración Solaris I y II, Network Administration Operating System, Administering Security on the Solaris OS.<br>
+<img src="https://img.shields.io/badge/%20-TIC%20Getafe%20Center-black.svg"><br>
+_May – July 2011_<br>
+Oracle Database Administration (164h) <br>
+Introduction to SQL (33h), PL/SQL Programming (33h), Database Administration I and II (66h), SQL Performance Tuning (32h) <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20TIC%20Getafe-black.svg"><br>
-_Mayo – Julio 2011_<br>
-Administración Bases de Datos ORACLE. (164 horas)<br>
-Introducción al SQL (33h), Programación PL/SQL (33h), Administración de Bases de datos I y II (66h), SQL Ajustes de Rendimiento (32h)<br>
+<img src="https://img.shields.io/badge/%20-MSI%20Training%20Center-black.svg"><br>
+_September – November 2010_<br>
+Hardware Interconnection Equipment Administration (164h) <br>
+Protocols, Hubs, Switches, Bridges, Routers, Brouters, Gateways. <br>
 
-<img src = "https://img.shields.io/badge/%20-Centro%20MSI%20Formación-black.svg"><br>
-_Septiembre – Noviembre 2010_<br>
-Administración de Equipos Hardware de Interconexión (164 horas)<br>
-Protocolos, Hubs, Swicthes, Bridges, Routers, Brouters y Gateways.<br>
-
-<img src = "https://img.shields.io/badge/%20-Centro%20Institución%20La%20Salle-black.svg"><br>
+<img src="https://img.shields.io/badge/%20-Institución%20La%20Salle-black.svg"><br>
 _2009 – 2010_<br>
-Curso de Mantenimiento de equipos informáticos INEM (310 horas)<br>
-Hardware, Software, Raid, Servidores, SAI, Redes, Instalaciones, WIFI.<br>
+INEM Computer Equipment Maintenance Course (310h) <br>
+Hardware, Software, RAID, Servers, UPS, Networks, Wi-Fi. <br>
 
-<img src = "https://img.shields.io/badge/%20-UNED-black.svg"><br>
+<img src="https://img.shields.io/badge/%20-UNED-black.svg"><br>
 _2009 – 2010_<br>
-Master UNED Derecho informático (300h)<br>
-Propiedad de bienes informáticos, Protección de Datos, Documento y firma electrónica.<br>
+UNED Master's in IT Law (300h) <br>
+Property of IT assets, Data Protection, Electronic Document and Signature. <br>
 
-<img src = "https://img.shields.io/badge/%20-Trinity%20Collegue-black.svg"><br>
+<img src="https://img.shields.io/badge/%20-Trinity%20College-black.svg"><br>
 _2000 – 2007_<br>
-Trinity College of London. Graded in Spoken English. Grade 7.<br>
-Graduado por el Trinity College of London.<br>
+Trinity College of London. Graded in Spoken English, Grade 7 <br>
+Graduate of the Trinity College of London. <br>
 
 ---
 
-## Otros datos
+## Additional Information
 
-Español como lengua materna.
+Spanish as a native language.
 
-Idiomas:
-- Inglés: Lectura y escritura nivel alto. Expresión oral nivel medio (B2).
-- Francés: Nivel bajo.
+Languages:
+- English: High-level reading and writing, intermediate-level speaking (B2).
+- French: Basic level.
 
-Permiso(s) de conducción: 
-- Permiso de Conducir B, PER.
+Driving License:
+- Category B driving license, PER.
+
