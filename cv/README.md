@@ -35,7 +35,7 @@ I am also passionate about **DevOps culture**, **AWS cloud-native infrastructure
 
 ## Work Experience
 
-<img align="left" src="https://img.shields.io/badge/Several%20Companies-contract%20and%freelance-orange.svg"> <br>
+<img align="left" src="https://img.shields.io/badge/Several%20Companies-contract%20and%20freelance-orange.svg"> <br>
 **DevSecOps / SRE / Linux Systems Architect-Engineer** <br>
 _(October 2020 - Present)_ <br>
 
