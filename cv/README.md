@@ -31,6 +31,7 @@ I am also passionate about **DevOps culture**, **AWS cloud-native infrastructure
   - Red Hat Certified Advanced Automation: Ansible Best Practices
   - Red Hat Certified System Administrator (RHCSA)
   - Red Hat Certified Specialist in Enterprise Application Server (RHJCA)
+
 ---
 
 ## Work Experience
